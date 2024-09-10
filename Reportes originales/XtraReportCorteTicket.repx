@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XtraReportsLayoutSerializer SerializerVersion="16.1.4.0" Ref="1" ControlType="DevExpress.XtraReports.UI.XtraReport, DevExpress.XtraReports.v16.1, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Name="XtraReportCorteCajaClaseDos" SnapGridSize="25" ReportUnit="TenthsOfAMillimeter" RollPaper="true" Margins="42, 1453, 35, 38" PaperKind="Custom" PageWidth="2159" PageHeight="2794" ScriptLanguage="VisualBasic" Version="16.1" DataMember="tblClaseDos" DataSource="#Ref-0" Dpi="254">
+  <Bands>
+    <Item1 Ref="2" ControlType="DetailBand" Name="Detail" HeightF="0" TextAlignment="TopLeft" Dpi="254" Padding="0,0,0,0,254" />
+    <Item2 Ref="3" ControlType="TopMarginBand" Name="TopMargin" HeightF="34.54198" TextAlignment="TopLeft" Dpi="254" Padding="0,0,0,0,254" />
+    <Item3 Ref="4" ControlType="BottomMarginBand" Name="BottomMargin" HeightF="38" TextAlignment="TopLeft" Dpi="254" Padding="0,0,0,0,254" />
+    <Item4 Ref="5" ControlType="ReportFooterBand" Name="ReportFooter" HeightF="237.7943" Dpi="254">
+      <Controls>
+        <Item1 Ref="6" ControlType="XRLabel" Name="XrLabel24" Text="XrLabel24" SizeF="568.8614,81.99196" LocationFloat="15.33292, 77.19514" Dpi="254" Font="Tahoma, 6.75pt, charSet=0" Padding="5,5,0,0,254" BorderColor="Transparent" Borders="All">
+          <DataBindings>
+            <Item1 Ref="7" PropertyName="Text" DataMember="tbl.OBS" />
+          </DataBindings>
+          <StylePriority Ref="8" UseFont="false" UseBorderColor="false" UseBorders="false" />
+        </Item1>
+        <Item2 Ref="9" ControlType="XRLabel" Name="XrLabel27" Text="Observaciones:" TextAlignment="MiddleLeft" SizeF="246.9833,50.4824" LocationFloat="16.63212, 25.00001" Dpi="254" Font="Tahoma, 8.25pt, style=Bold, charSet=0" Padding="5,5,0,0,254">
+          <StylePriority Ref="10" UseFont="false" UseTextAlignment="false" />
+        </Item2>
+        <Item3 Ref="11" ControlType="XRPageInfo" Name="XrPageInfo1" PageInfo="DateTime" Format="{0:d/MM/yyyy HH:mm}" TextAlignment="TopRight" SizeF="281.7095,55.98576" LocationFloat="315.4982, 164.3273" Dpi="254" Font="Tahoma, 6.75pt, charSet=0" Padding="5,5,0,0,254">
+          <StylePriority Ref="12" UseFont="false" UseTextAlignment="false" />
+        </Item3>
+      </Controls>
+    </Item4>
+    <Item5 Ref="13" ControlType="ReportHeaderBand" Name="ReportHeader" HeightF="1658.841" Dpi="254">
+      <Controls>
+        <Item1 Ref="14" ControlType="XRPanel" Name="XrPanel2" SizeF="656.1097,1381.525" LocationFloat="1.999999, 252.3162" Dpi="254" Borders="All">
+          <Controls>
+            <Item1 Ref="15" ControlType="XRLine" Name="XrLine1" LineWidth="3" SizeF="572.2268,5" LocationFloat="24.66668, 1208.358" Dpi="254" />
+            <Item2 Ref="16" ControlType="XRLabel" Name="XrLabel1" Text="Efectivo Inicial:" SizeF="251.3228,50.4823" LocationFloat="20.4258, 1157.876" Dpi="254" Font="Tahoma, 9.75pt, charSet=0" Padding="5,5,0,0,254" Borders="None">
+              <StylePriority Ref="17" UseFont="false" UseBorders="false" />
+            </Item2>
+            <Item3 Ref="18" ControlType="XRLabel" Name="XrLabel2" Text="XrLabel42" TextAlignment="MiddleRight" SizeF="346.9125,58.41992" LocationFloat="272.0819, 1149.938" Dpi="254" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="5,5,0,0,254" Borders="None">
+              <DataBindings>
+                <Item1 Ref="19" FormatString="{0:c2}" PropertyName="Text" DataMember="tbl.EFECTIVOINICIAL" />
+              </DataBindings>
+              <StylePriority Ref="20" UseFont="false" UseBorders="false" UseTextAlignment="false" />
+            </Item3>
+            <Item4 Ref="21" ControlType="XRLabel" Name="XrLabel16" Text="Total Ingresos - (Devoluciones+Gastos)" SizeF="594.6611,47.83655" LocationFloat="24.66668, 1018.642" Dpi="254" Font="Tahoma, 9pt, charSet=0" Padding="5,5,0,0,254" Borders="None">
+              <StylePriority Ref="22" UseFont="false" UseBorders="false" />
+            </Item4>
+            <Item5 Ref="23" ControlType="XRLine" Name="XrLine2" LineWidth="3" SizeF="572.2268,5" LocationFloat="23.98089, 987.77" Dpi="254" />
+            <Item6 Ref="24" ControlType="XRLabel" Name="XrLabel18" Text="EFECTIVO" TextAlignment="MiddleCenter" SizeF="613.0121,63.71156" LocationFloat="18.09777, 45.77256" Dpi="254" Font="Tahoma, 9.75pt, charSet=0" ForeColor="White" BackColor="DimGray" Padding="5,5,0,0,254" Borders="All">
+              <StylePriority Ref="25" UseFont="false" UseForeColor="false" UseBackColor="false" UseBorders="false" UseTextAlignment="false" />
+            </Item6>
+            <Item7 Ref="26" ControlType="XRLabel" Name="XrLabel19" Text="Total Vta Contado:" SizeF="291.4651,50.48247" LocationFloat="15.34598, 126.9467" Dpi="254" Font="Tahoma, 9.75pt, charSet=0" Padding="5,5,0,0,254" Borders="None">
+              <StylePriority Ref="27" UseFont="false" UseBorders="false" />
+            </Item7>
+            <Item8 Ref="28" ControlType="XRLabel" Name="XrLabel20" TextAlignment="MiddleRight" SizeF="327.3425,50.48244" LocationFloat="323.8658, 126.9467" Dpi="254" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="5,5,0,0,254" Borders="None">
+              <DataBindings>
+                <Item1 Ref="29" FormatString="{0:Q0.00}" PropertyName="Text" DataMember="tbl.TOTALVENTAS" />
+              </DataBindings>
+              <StylePriority Ref="30" UseFont="false" UseBorders="false" UseTextAlignment="false" />
+            </Item8>
+            <Item9 Ref="31" ControlType="XRLabel" Name="XrLabel23" Text="Total Recibos cxc:" SizeF="286.3853,50.48242" LocationFloat="15.34598, 193.4101" Dpi="254" Font="Tahoma, 9.75pt, charSet=0" Padding="5,5,0,0,254" Borders="None">
+              <StylePriority Ref="32" UseFont="false" UseBorders="false" />
+            </Item9>
+            <Item10 Ref="33" ControlType="XRLabel" Name="XrLabel26" TextAlignment="MiddleRight" SizeF="326.8129,50.48242" LocationFloat="323.8664, 193.4101" Dpi="254" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="5,5,0,0,254" Borders="None">
+              <DataBindings>
+                <Item1 Ref="34" FormatString="{0:c2}" PropertyName="Text" DataMember="tbl.TOTALRECIBOS" />
+              </DataBindings>
+              <StylePriority Ref="35" UseFont="false" UseBorders="false" UseTextAlignment="false" />
+            </Item10>
+            <Item11 Ref="36" ControlType="XRLabel" Name="XrLabel29" Text="Efectivo Inicial:" SizeF="286.3853,50.48242" LocationFloat="20.75913, 286.4376" Dpi="254" Font="Tahoma, 9.75pt, charSet=0" Padding="5,5,0,0,254" Borders="None">
+              <StylePriority Ref="37" UseFont="false" UseBorders="false" />
+            </Item11>
+            <Item12 Ref="38" ControlType="XRLabel" Name="XrLabel30" Text="XrLabel42" TextAlignment="MiddleRight" SizeF="312.2245,58.41995" LocationFloat="338.5771, 286.4376" Dpi="254" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="5,5,0,0,254" Borders="None">
+              <DataBindings>
+                <Item1 Ref="39" FormatString="{0:c2}" PropertyName="Text" DataMember="tbl.EFECTIVOINICIAL" />
+              </DataBindings>
+              <StylePriority Ref="40" UseFont="false" UseBorders="false" UseTextAlignment="false" />
+            </Item12>
+            <Item13 Ref="41" ControlType="XRLabel" Name="XrLabel36" Text="Total Ingresos:" SizeF="284.6918,50.48257" LocationFloat="15.25616, 357.8752" Dpi="254" Font="Tahoma, 9.75pt, charSet=0" Padding="5,5,0,0,254" Borders="None">
+              <StylePriority Ref="42" UseFont="false" UseBorders="false" />
+            </Item13>
+            <Item14 Ref="43" ControlType="XRLabel" Name="XrLabel37" Text="lbTotalIngresos" TextAlignment="MiddleRight" SizeF="320.9925,58.42004" LocationFloat="329.4757, 357.8752" Dpi="254" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="5,5,0,0,254" Borders="None">
+              <DataBindings>
+                <Item1 Ref="44" FormatString="{0:c2}" PropertyName="Text" DataMember="tbl.TOTALVTATARJETARECIBOS" />
+              </DataBindings>
+              <StylePriority Ref="45" UseFont="false" UseBorders="false" UseTextAlignment="false" />
+            </Item14>
+            <Item15 Ref="46" ControlType="XRLabel" Name="XrLabel38" Text="XrLabel45" TextAlignment="MiddleRight" SizeF="316.1235,58.41995" LocationFloat="335.0848, 487.2043" Dpi="254" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="5,5,0,0,254" Borders="None">
+              <DataBindings>
+                <Item1 Ref="47" FormatString="{0:c2}" PropertyName="Text" DataMember="tbl.DEVOLUCIONES" />
+              </DataBindings>
+              <StylePriority Ref="48" UseFont="false" UseBorders="false" UseTextAlignment="false" />
+            </Item15>
+            <Item16 Ref="49" ControlType="XRLabel" Name="XrLabel39" Text="Devoluciones(-):" SizeF="317.2879,50.48242" LocationFloat="16.63211, 495.1418" Dpi="254" Font="Tahoma, 9.75pt, charSet=0" Padding="5,5,0,0,254" Borders="None">
+              <StylePriority Ref="50" UseFont="false" UseBorders="false" />
+            </Item16>
+            <Item17 Ref="51" ControlType="XRLabel" Name="XrLabel46" Text="Efectivo reportado:" SizeF="315.0654,50.48242" LocationFloat="17.79571, 682.9958" Dpi="254" Font="Tahoma, 9.75pt, charSet=0" Padding="5,5,0,0,254" Borders="None">
+              <StylePriority Ref="52" UseFont="false" UseBorders="false" />
+            </Item17>
+            <Item18 Ref="53" ControlType="XRLabel" Name="XrLabel47" Text="Cheques  (-):" SizeF="286.3853,50.48242" LocationFloat="17.79571, 609.1237" Dpi="254" Font="Tahoma, 9.75pt, charSet=0" Padding="5,5,0,0,254" Borders="None">
+              <StylePriority Ref="54" UseFont="false" UseBorders="false" />
+            </Item18>
+            <Item19 Ref="55" ControlType="XRLabel" Name="XrLabel48" Text="XrLabel41" TextAlignment="MiddleRight" SizeF="315.0654,50.4823" LocationFloat="335.6139, 609.1237" Dpi="254" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="5,5,0,0,254" Borders="None">
+              <DataBindings>
+                <Item1 Ref="56" FormatString="{0:c2}" PropertyName="Text" DataMember="tbl.TOTALCHEQUES" />
+              </DataBindings>
+              <StylePriority Ref="57" UseFont="false" UseBorders="false" UseTextAlignment="false" />
+            </Item19>
+            <Item20 Ref="58" ControlType="XRLabel" Name="XrLabel49" Text="Diferencia:" SizeF="282.8925,50.48236" LocationFloat="19.91219, 770.3086" Dpi="254" Font="Tahoma, 9.75pt, charSet=0" Padding="5,5,0,0,254" Borders="None">
+              <StylePriority Ref="59" UseFont="false" UseBorders="false" />
+            </Item20>
+            <Item21 Ref="60" ControlType="XRLabel" Name="XrLabel50" Text="XrLabel11" TextAlignment="MiddleRight" SizeF="314.0075,50.48218" LocationFloat="337.2008, 770.3086" Dpi="254" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="5,5,0,0,254" Borders="None">
+              <DataBindings>
+                <Item1 Ref="61" FormatString="{0:c2}" PropertyName="Text" DataMember="tbl.TOTALFINAL" />
+              </DataBindings>
+              <StylePriority Ref="62" UseFont="false" UseBorders="false" UseTextAlignment="false" />
+            </Item21>
+            <Item22 Ref="63" ControlType="XRLabel" Name="XrLabel51" Text="Gastos/Vales (-):" SizeF="320.1457,50.48248" LocationFloat="17.79571, 558.6412" Dpi="254" Font="Tahoma, 9.75pt, charSet=0" Padding="5,5,0,0,254" Borders="None">
+              <StylePriority Ref="64" UseFont="false" UseBorders="false" />
+            </Item22>
+            <Item23 Ref="65" ControlType="XRLabel" Name="XrLabel52" Text="lbTotalGastos" TextAlignment="MiddleRight" SizeF="314.5366,58.41998" LocationFloat="338.4714, 550.7042" Dpi="254" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="5,5,0,0,254" Borders="None">
+              <DataBindings>
+                <Item1 Ref="66" FormatString="{0:c2}" PropertyName="Text" DataMember="tbl.TOTALGASTOS" />
+              </DataBindings>
+              <StylePriority Ref="67" UseFont="false" UseBorders="false" UseTextAlignment="false" />
+            </Item23>
+            <Item24 Ref="68" ControlType="XRLine" Name="XrLine5" LineWidth="3" SizeF="572.2268,5" LocationFloat="8.05862, 733.4783" Dpi="254" />
+            <Item25 Ref="69" ControlType="XRLabel" Name="XrLabel53" Text="Faltante:" SizeF="186.7955,63.71155" LocationFloat="24.33332, 924.0585" Dpi="254" Font="Tahoma, 9.75pt, charSet=0" Padding="5,5,0,0,254" Borders="None">
+              <StylePriority Ref="70" UseFont="false" UseBorders="false" />
+            </Item25>
+            <Item26 Ref="71" ControlType="XRLabel" Name="XrLabel54" Text="Sobrante:" SizeF="185.7371,63.71155" LocationFloat="24.66668, 849.6833" Dpi="254" Font="Tahoma, 9.75pt, charSet=0" Padding="5,5,0,0,254" Borders="None">
+              <StylePriority Ref="72" UseFont="false" UseBorders="false" />
+            </Item26>
+            <Item27 Ref="73" ControlType="XRLine" Name="XrLine6" LineWidth="3" SizeF="557.8171,13.01755" LocationFloat="18.43111, 344.8577" Dpi="254" />
+            <Item28 Ref="74" ControlType="XRLabel" Name="XrLabel55" TextAlignment="MiddleRight" SizeF="317.4113,50.48242" LocationFloat="333.3901, 682.9958" Dpi="254" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="5,5,0,0,254" Borders="None">
+              <DataBindings>
+                <Item1 Ref="75" FormatString="{0:Q0.00}" PropertyName="Text" DataMember="tbl.TOTALREPORTADO" />
+              </DataBindings>
+              <StylePriority Ref="76" UseFont="false" UseBorders="false" UseTextAlignment="false" />
+            </Item28>
+            <Item29 Ref="77" ControlType="XRLabel" Name="XrLabel56" Text="txtSobrante" TextAlignment="MiddleRight" SizeF="252.6241,50.4826" LocationFloat="210.933, 849.6833" Dpi="254" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="5,5,0,0,254" Borders="None">
+              <DataBindings>
+                <Item1 Ref="78" FormatString="{0:Q0.00}" PropertyName="Text" DataMember="tbl.SOBRANTE" />
+              </DataBindings>
+              <StylePriority Ref="79" UseFont="false" UseBorders="false" UseTextAlignment="false" />
+            </Item29>
+            <Item30 Ref="80" ControlType="XRLabel" Name="XrLabel57" Text="txtFaltante" TextAlignment="MiddleRight" SizeF="252.624,50.48254" LocationFloat="211.6581, 924.0585" Dpi="254" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="5,5,0,0,254" Borders="None">
+              <DataBindings>
+                <Item1 Ref="81" FormatString="{0:Q0.00}" PropertyName="Text" DataMember="tbl.FALTANTE" />
+              </DataBindings>
+              <StylePriority Ref="82" UseFont="false" UseBorders="false" UseTextAlignment="false" />
+            </Item30>
+            <Item31 Ref="83" ControlType="XRLabel" Name="XrLabel58" Text="XrLabel10" TextAlignment="MiddleRight" SizeF="339.1842,58.42004" LocationFloat="279.8102, 1066.479" Dpi="254" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="5,5,0,0,254" Borders="None">
+              <DataBindings>
+                <Item1 Ref="84" FormatString="{0:c2}" PropertyName="Text" DataMember="tbl.MINUTOFIN" />
+              </DataBindings>
+              <StylePriority Ref="85" UseFont="false" UseBorders="false" UseTextAlignment="false" />
+            </Item31>
+            <Item32 Ref="86" ControlType="XRLabel" Name="XrLabel3" Text="XrLabel3" TextAlignment="MiddleRight" SizeF="407.6696,58.42004" LocationFloat="211.3248, 1242.474" Dpi="254" Font="Tahoma, 11.25pt, style=Bold, charSet=0" Padding="5,5,0,0,254" Borders="None">
+              <DataBindings>
+                <Item1 Ref="87" FormatString="{0:c2}" PropertyName="Text" DataMember="tbl.MINUTOINICIO" />
+              </DataBindings>
+              <StylePriority Ref="88" UseFont="false" UseBorders="false" UseTextAlignment="false" />
+            </Item32>
+          </Controls>
+          <StylePriority Ref="89" UseBorders="false" />
+        </Item1>
+        <Item2 Ref="90" ControlType="XRLabel" Name="XrLabel60" Text="USUARIO:" SizeF="123.4217,45.67181" LocationFloat="1.22348, 206.6444" Dpi="254" Font="Tahoma, 6.75pt, charSet=0" Padding="5,5,0,0,254">
+          <StylePriority Ref="91" UseFont="false" />
+        </Item2>
+        <Item3 Ref="92" ControlType="XRLabel" Name="XrLabel61" Text="XrLabel25" SizeF="363.756,45.67181" LocationFloat="124.8307, 206.6444" Dpi="254" Font="Tahoma, 6.75pt, charSet=0" Padding="5,5,0,0,254">
+          <DataBindings>
+            <Item1 Ref="93" PropertyName="Text" DataMember="tbl.USUARIO" />
+          </DataBindings>
+          <StylePriority Ref="94" UseFont="false" />
+        </Item3>
+        <Item4 Ref="95" ControlType="XRLabel" Name="XrLabel62" Text="XrLabel3" TextAlignment="TopRight" SizeF="85.50378,45.67181" LocationFloat="512.6953, 206.6444" Dpi="254" Font="Tahoma, 6.75pt, charSet=0" Padding="5,5,0,0,254">
+          <DataBindings>
+            <Item1 Ref="96" FormatString="{0:n2}" PropertyName="Text" DataMember="tbl.MARGEN" />
+          </DataBindings>
+          <StylePriority Ref="97" UseFont="false" UseTextAlignment="false" />
+        </Item4>
+        <Item5 Ref="98" ControlType="XRLabel" Name="XrLabel63" Text="XrLabel14" SizeF="363.9417,45.67188" LocationFloat="124.6452, 160.9724" Dpi="254" Font="Tahoma, 6.75pt, charSet=0" Padding="5,5,0,0,254">
+          <DataBindings>
+            <Item1 Ref="99" FormatString="{0:d/MM/yyyy}" PropertyName="Text" DataMember="tbl.FECHA" />
+          </DataBindings>
+          <StylePriority Ref="100" UseFont="false" />
+        </Item5>
+        <Item6 Ref="101" ControlType="XRLabel" Name="XrLabel64" Text="FECHA:" SizeF="108.9603,45.67188" LocationFloat="0.8522574, 160.9724" Dpi="254" Font="Tahoma, 6.75pt, charSet=0" Padding="5,5,0,0,254">
+          <StylePriority Ref="102" UseFont="false" />
+        </Item6>
+        <Item7 Ref="103" ControlType="XRLabel" Name="XrLabel65" Text="CORTE DE CAJA" SizeF="248.4681,44.22874" LocationFloat="0.6666663, 116.7437" Dpi="254" Font="Tahoma, 8.25pt, charSet=0" Padding="5,5,0,0,254">
+          <StylePriority Ref="104" UseFont="false" />
+        </Item7>
+        <Item8 Ref="105" ControlType="XRLabel" Name="XrLabel66" Text="XrLabel13" SizeF="223.7068,40.38026" LocationFloat="353.2081, 120.5921" Dpi="254" Font="Tahoma, 6.75pt, charSet=0" Padding="5,5,0,0,254">
+          <DataBindings>
+            <Item1 Ref="106" PropertyName="Text" DataMember="tbl.CORRELATIVO" />
+          </DataBindings>
+          <StylePriority Ref="107" UseFont="false" />
+        </Item8>
+        <Item9 Ref="108" ControlType="XRLabel" Name="LBNOMEMPRESA" Text="Nombre Empresa" TextAlignment="MiddleCenter" SizeF="650.8015,116.7438" LocationFloat="0.9999995, 0" Dpi="254" Font="Tahoma, 8.25pt, style=Bold, charSet=0" Padding="5,5,0,0,254">
+          <StylePriority Ref="109" UseFont="false" UseTextAlignment="false" />
+        </Item9>
+      </Controls>
+    </Item5>
+  </Bands>
+  <ObjectStorage>
+    <Item1 ObjectType="DevExpress.XtraReports.Serialization.ObjectStorageInfo, DevExpress.XtraReports.v16.1" Ref="0" Content="~Xtra#NULL" Type="Ares.DS_CorteCaja" />
+  </ObjectStorage>
+</XtraReportsLayoutSerializer>

@@ -1,0 +1,9 @@
+C:\SOPORTE\code\Ares\express\bin\Debug\express.dll
+C:\SOPORTE\code\Ares\express\bin\Debug\express.pdb
+C:\SOPORTE\code\Ares\express\bin\Debug\express.xml
+C:\SOPORTE\code\Ares\express\obj\Debug\express.Resources.resources
+C:\SOPORTE\code\Ares\express\obj\Debug\express.vbproj.GenerateResource.Cache
+C:\SOPORTE\code\Ares\express\obj\Debug\express.dll
+C:\SOPORTE\code\Ares\express\obj\Debug\express.xml
+C:\SOPORTE\code\Ares\express\obj\Debug\express.pdb
+C:\SOPORTE\code\Ares\express\obj\Debug\express.vbprojResolveAssemblyReference.cache

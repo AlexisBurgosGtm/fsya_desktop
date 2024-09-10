@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XtraReportsLayoutSerializer SerializerVersion="16.1.4.0" Ref="1" ControlType="DevExpress.XtraReports.UI.XtraReport, DevExpress.XtraReports.v16.1, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Name="XtraReportMOVINV" SnapGridSize="25" ReportUnit="TenthsOfAMillimeter" Margins="56, 1455, 47, 56" PageWidth="2159" PageHeight="2794" Version="16.1" DataMember="tblMovInv" DataSource="#Ref-0" Dpi="254">
+  <Bands>
+    <Item1 Ref="2" ControlType="DetailBand" Name="Detail" HeightF="100.965027" TextAlignment="TopLeft" Dpi="254" Padding="0,0,0,0,254">
+      <Controls>
+        <Item1 Ref="3" ControlType="XRLabel" Name="XrLabel10" Text="XrLabel10" TextAlignment="MiddleCenter" SizeF="150.541626,50.4825134" LocationFloat="471.583374, 50.48251" Dpi="254" Font="Tahoma, 6.75pt, charSet=0" Padding="5,5,0,0,254">
+          <DataBindings>
+            <Item1 Ref="4" PropertyName="Text" DataMember="tblMovInv.CANTIDAD" />
+          </DataBindings>
+          <StylePriority Ref="5" UseFont="false" UseTextAlignment="false" />
+        </Item1>
+        <Item2 Ref="6" ControlType="XRLabel" Name="XrLabel9" Text="XrLabel9" TextAlignment="MiddleLeft" SizeF="182.021011,50.4825134" LocationFloat="228.874771, 50.48251" Dpi="254" Font="Tahoma, 6.75pt, charSet=0" Padding="5,5,0,0,254">
+          <DataBindings>
+            <Item1 Ref="7" PropertyName="Text" DataMember="tblMovInv.CODMEDIDA" />
+          </DataBindings>
+          <StylePriority Ref="8" UseFont="false" UseTextAlignment="false" />
+        </Item2>
+        <Item3 Ref="9" ControlType="XRLabel" Name="XrLabel8" Text="XrLabel8" TextAlignment="MiddleLeft" SizeF="634.9375,50.48251" LocationFloat="0, 0" Dpi="254" Font="Tahoma, 6.75pt, charSet=0" Padding="5,5,0,0,254">
+          <DataBindings>
+            <Item1 Ref="10" PropertyName="Text" DataMember="tblMovInv.DESPROD" />
+          </DataBindings>
+          <StylePriority Ref="11" UseFont="false" UseTextAlignment="false" />
+        </Item3>
+        <Item4 Ref="12" ControlType="XRLabel" Name="XrLabel5" Text="XrLabel5" TextAlignment="MiddleLeft" SizeF="198.8543,50.4825134" LocationFloat="0, 50.48251" Dpi="254" Font="Tahoma, 6.75pt, charSet=0" Padding="5,5,0,0,254">
+          <DataBindings>
+            <Item1 Ref="13" PropertyName="Text" DataMember="tblMovInv.CODPROD" />
+          </DataBindings>
+          <StylePriority Ref="14" UseFont="false" UseTextAlignment="false" />
+        </Item4>
+      </Controls>
+    </Item1>
+    <Item2 Ref="15" ControlType="TopMarginBand" Name="TopMargin" HeightF="46.6252632" TextAlignment="TopLeft" Dpi="254" Padding="0,0,0,0,254" />
+    <Item3 Ref="16" ControlType="BottomMarginBand" Name="BottomMargin" HeightF="55.9999733" TextAlignment="TopLeft" Dpi="254" Padding="0,0,0,0,254" />
+    <Item4 Ref="17" ControlType="PageFooterBand" Name="PageFooter" HeightF="29.104166" Dpi="254" />
+    <Item5 Ref="18" ControlType="ReportFooterBand" Name="ReportFooter" HeightF="424.732483" Dpi="254">
+      <Controls>
+        <Item1 Ref="19" ControlType="XRLabel" Name="XrLabel26" Text="Origen:" SizeF="313.6458,36.75" LocationFloat="24.8334923, 318.979248" Dpi="254" Font="Tahoma, 8.25pt, style=Bold, charSet=0" Padding="5,5,0,0,254">
+          <StylePriority Ref="20" UseFont="false" />
+        </Item1>
+        <Item2 Ref="21" ControlType="XRLabel" Name="XrLabel13" Text="Usuario:" SizeF="160.1876,55.27084" LocationFloat="25.00001, 25.00001" Dpi="254" Font="Tahoma, 9pt, style=Bold" Padding="5,5,0,0,254">
+          <StylePriority Ref="22" UseFont="false" />
+        </Item2>
+        <Item3 Ref="23" ControlType="XRLabel" Name="XrLabel3" Text="XrLabel3" SizeF="336.0208,55.27084" LocationFloat="185.4584, 25.00001" Dpi="254" Font="Tahoma, 9pt" Padding="5,5,0,0,254">
+          <DataBindings>
+            <Item1 Ref="24" PropertyName="Text" DataMember="tblMovInv.USUARIO" />
+          </DataBindings>
+          <StylePriority Ref="25" UseFont="false" />
+        </Item3>
+        <Item4 Ref="26" ControlType="XRLabel" Name="XrLabel23" Text="XrLabel23" SizeF="610.375,142.190887" LocationFloat="24.5625153, 147.604034" Dpi="254" Font="Tahoma, 6.75pt, charSet=0" Padding="5,5,0,0,254">
+          <DataBindings>
+            <Item1 Ref="27" PropertyName="Text" DataMember="tblMovInv.OBS" />
+          </DataBindings>
+          <StylePriority Ref="28" UseFont="false" />
+        </Item4>
+        <Item5 Ref="29" ControlType="XRLabel" Name="XrLabel24" Text="Observaciones:" SizeF="422.125,55.27084" LocationFloat="24.72919, 92.33343" Dpi="254" Font="Tahoma, 8.25pt, style=Bold, charSet=0" Padding="5,5,0,0,254">
+          <StylePriority Ref="30" UseFont="false" />
+        </Item5>
+        <Item6 Ref="31" ControlType="XRLabel" Name="XrLabel25" Text="XrLabel25" SizeF="610.375,58.4200134" LocationFloat="24.5625153, 355.729248" Dpi="254" Font="Tahoma, 6.75pt, charSet=0" Padding="5,5,0,0,254">
+          <DataBindings>
+            <Item1 Ref="32" PropertyName="Text" DataMember="tblMovInv.OBSMARCA" />
+          </DataBindings>
+          <StylePriority Ref="33" UseFont="false" />
+        </Item6>
+      </Controls>
+    </Item5>
+    <Item6 Ref="34" ControlType="ReportHeaderBand" Name="ReportHeader" HeightF="342.958374" Dpi="254">
+      <Controls>
+        <Item1 Ref="35" ControlType="XRLabel" Name="XrLabel2" Text="Movimiento de Inventario" SizeF="612.0417,55.2708435" LocationFloat="11.3957834, 79.5867157" Dpi="254" Font="Tahoma, 8.25pt, charSet=0" Padding="5,5,0,0,254">
+          <StylePriority Ref="36" UseFont="false" />
+        </Item1>
+        <Item2 Ref="37" ControlType="XRLabel" Name="XrLabel1" Text="XrLabel1" TextAlignment="TopCenter" SizeF="612.0417,79.58672" LocationFloat="10.5207968, 0" Dpi="254" Font="Tahoma, 9pt, style=Bold, charSet=0" Padding="5,5,0,0,254">
+          <DataBindings>
+            <Item1 Ref="38" PropertyName="Text" DataMember="tblMovInv.EMPNOMBRE" />
+          </DataBindings>
+          <StylePriority Ref="39" UseFont="false" UseTextAlignment="false" />
+        </Item2>
+        <Item3 Ref="40" ControlType="XRLabel" Name="XrLabel22" Text="Documento:" TextAlignment="MiddleLeft" SizeF="210.312576,55.27083" LocationFloat="10.5207968, 134.857559" Dpi="254" Font="Tahoma, 8.25pt, style=Bold, charSet=0" Padding="5,5,0,0,254">
+          <StylePriority Ref="41" UseFont="false" UseTextAlignment="false" />
+        </Item3>
+        <Item4 Ref="42" ControlType="XRLabel" Name="XrLabel7" Text="XrLabel7" TextAlignment="MiddleLeft" SizeF="174.6249,58.42001" LocationFloat="220.8334, 134.857559" Dpi="254" Font="Tahoma, 8.25pt, style=Bold, charSet=0" Padding="5,5,0,0,254">
+          <DataBindings>
+            <Item1 Ref="43" PropertyName="Text" DataMember="tblMovInv.CODDOC" />
+          </DataBindings>
+          <StylePriority Ref="44" UseFont="false" UseTextAlignment="false" />
+        </Item4>
+        <Item5 Ref="45" ControlType="XRLabel" Name="XrLabel6" Text="XrLabel6" TextAlignment="MiddleLeft" SizeF="227.5417,58.42001" LocationFloat="395.458344, 134.857559" Dpi="254" Font="Tahoma, 8.25pt, style=Bold, charSet=0" Padding="5,5,0,0,254">
+          <DataBindings>
+            <Item1 Ref="46" PropertyName="Text" DataMember="tblMovInv.CORRELATIVO" />
+          </DataBindings>
+          <StylePriority Ref="47" UseFont="false" UseTextAlignment="false" />
+        </Item5>
+        <Item6 Ref="48" ControlType="XRLabel" Name="XrLabel4" Text="XrLabel4" TextAlignment="MiddleLeft" SizeF="401.729218,55.27083" LocationFloat="220.8334, 193.2776" Dpi="254" Font="Tahoma, 8pt" Padding="5,5,0,0,254">
+          <DataBindings>
+            <Item1 Ref="49" FormatString="{0:d/MM/yyyy}" PropertyName="Text" DataMember="tblMovInv.FECHA" />
+          </DataBindings>
+          <StylePriority Ref="50" UseFont="false" UseTextAlignment="false" />
+        </Item6>
+        <Item7 Ref="51" ControlType="XRLabel" Name="XrLabel17" Text="Producto" SizeF="380.7084,55.27084" LocationFloat="0.2708168, 287.687531" Dpi="254" Font="Tahoma, 9pt, style=Bold, Underline" Padding="5,5,0,0,254">
+          <StylePriority Ref="52" UseFont="false" />
+        </Item7>
+        <Item8 Ref="53" ControlType="XRLabel" Name="XrLabel19" Text="Cantidad" SizeF="174.3334,55.27084" LocationFloat="460.604065, 287.687531" Dpi="254" Font="Tahoma, 9pt, style=Bold, Underline" Padding="5,5,0,0,254">
+          <StylePriority Ref="54" UseFont="false" />
+        </Item8>
+      </Controls>
+    </Item6>
+  </Bands>
+  <ObjectStorage>
+    <Item1 ObjectType="DevExpress.XtraReports.Serialization.ObjectStorageInfo, DevExpress.XtraReports.v16.1" Ref="0" Content="~Xtra#NULL" Type="Ares.DataSetInventarios" />
+  </ObjectStorage>
+</XtraReportsLayoutSerializer>

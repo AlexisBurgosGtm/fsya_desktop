@@ -1,0 +1,377 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XtraReportsLayoutSerializer SerializerVersion="16.1.4.0" Ref="1" ControlType="DevExpress.XtraReports.UI.XtraReport, DevExpress.XtraReports.v16.1, Version=16.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Name="XtraReportCorteCaja" Margins="38, 32, 11, 22" PageWidth="850" PageHeight="1100" ScriptLanguage="VisualBasic" Version="16.1" DataMember="tblDetalleVentas" DataSource="#Ref-0" Dpi="100" Font="Tahoma, 9.75pt, charSet=0">
+  <Bands>
+    <Item1 Ref="2" ControlType="DetailBand" Name="Detail" HeightF="18.20829" TextAlignment="TopLeft" Dpi="100" Padding="0,0,0,0,100">
+      <SortFields>
+        <Item1 Ref="3" FieldName="VENTAS" SortOrder="Descending" />
+      </SortFields>
+      <Controls>
+        <Item1 Ref="4" ControlType="XRLabel" Name="XrLabel23" TextAlignment="MiddleRight" SizeF="77.00006,18.20829" LocationFloat="376.375, 0" Dpi="100" Font="Tahoma, 6.75pt, charSet=0" Padding="2,2,0,0,100">
+          <DataBindings>
+            <Item1 Ref="5" FormatString="{0:0.00%}" PropertyName="Text" DataMember="tblDetalleVentas.PARTICIPACION" />
+          </DataBindings>
+          <StylePriority Ref="6" UseFont="false" UseTextAlignment="false" />
+        </Item1>
+        <Item2 Ref="7" ControlType="XRLabel" Name="XrLabel26" Text="XrLabel26" TextAlignment="MiddleCenter" SizeF="78.29178,18.20829" LocationFloat="480.5836, 0" Dpi="100" Font="Tahoma, 6.75pt, charSet=0" Padding="2,2,0,0,100">
+          <DataBindings>
+            <Item1 Ref="8" PropertyName="Text" DataMember="tblDetalleVentas.NOTRANS" />
+          </DataBindings>
+          <StylePriority Ref="9" UseFont="false" UseTextAlignment="false" />
+        </Item2>
+        <Item3 Ref="10" ControlType="XRLabel" Name="XrLabel16" Text="XrLabel16" TextAlignment="MiddleRight" SizeF="100.0001,18.20829" LocationFloat="260.3334, 0" Dpi="100" Font="Tahoma, 6.75pt, charSet=0" Padding="2,2,0,0,100">
+          <DataBindings>
+            <Item1 Ref="11" FormatString="{0:Q0.00}" PropertyName="Text" DataMember="tblDetalleVentas.VENTAS" />
+          </DataBindings>
+          <StylePriority Ref="12" UseFont="false" UseTextAlignment="false" />
+        </Item3>
+        <Item4 Ref="13" ControlType="XRLabel" Name="XrLabel15" TextAlignment="MiddleLeft" SizeF="216.9999,18.20829" LocationFloat="27.99999, 0" Dpi="100" Font="Tahoma, 6.75pt, charSet=0" Padding="2,2,0,0,100">
+          <DataBindings>
+            <Item1 Ref="14" PropertyName="Text" DataMember="tblDetalleVentas.VENDEDOR" />
+          </DataBindings>
+          <StylePriority Ref="15" UseFont="false" UseTextAlignment="false" />
+        </Item4>
+      </Controls>
+    </Item1>
+    <Item2 Ref="16" ControlType="TopMarginBand" Name="TopMargin" HeightF="11" TextAlignment="TopLeft" Dpi="100" Padding="0,0,0,0,100" />
+    <Item3 Ref="17" ControlType="BottomMarginBand" Name="BottomMargin" HeightF="22" TextAlignment="TopLeft" Dpi="100" Padding="0,0,0,0,100" />
+    <Item4 Ref="18" ControlType="ReportFooterBand" Name="ReportFooter" HeightF="694.7917" Dpi="100">
+      <Controls>
+        <Item1 Ref="19" ControlType="XRLabel" Name="XrLabel66" Text="5 FALTANTE DE INVENTARIO" TextAlignment="MiddleLeft" SizeF="246.0417,19.87496" LocationFloat="271.3752, 322.8335" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="2,2,0,0,100">
+          <StylePriority Ref="20" UseFont="false" UseTextAlignment="false" />
+        </Item1>
+        <Item2 Ref="21" ControlType="XRPanel" Name="XrPanel7" SizeF="247.375,139.5" LocationFloat="268.0419, 342.7084" Dpi="100" Borders="All">
+          <Controls>
+            <Item1 Ref="22" ControlType="XRLabel" Name="XrLabel67" Text="TOTAL                     Q" TextAlignment="MiddleLeft" SizeF="244.5832,19.87502" LocationFloat="3.291733, 119.625" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="2,2,0,0,100">
+              <StylePriority Ref="23" UseFont="false" UseTextAlignment="false" />
+            </Item1>
+            <Item2 Ref="24" ControlType="XRLabel" Name="XrLabel68" Text="MONTO Q." TextAlignment="MiddleLeft" SizeF="101.0835,19.87496" LocationFloat="146.6248, 0" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="2,2,0,0,100">
+              <StylePriority Ref="25" UseFont="false" UseTextAlignment="false" />
+            </Item2>
+            <Item3 Ref="26" ControlType="XRLabel" Name="XrLabel69" Text="DESCRIPCION" TextAlignment="MiddleLeft" SizeF="145.9581,19.87496" LocationFloat="0.6666819, 0" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="2,2,0,0,100">
+              <StylePriority Ref="27" UseFont="false" UseTextAlignment="false" />
+            </Item3>
+          </Controls>
+          <StylePriority Ref="28" UseBorders="false" />
+        </Item2>
+        <Item3 Ref="29" ControlType="XRLabel" Name="XrLabel61" Text="4 GASTOS" TextAlignment="MiddleLeft" SizeF="246.0417,19.87496" LocationFloat="10.87499, 322.8334" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="2,2,0,0,100">
+          <StylePriority Ref="30" UseFont="false" UseTextAlignment="false" />
+        </Item3>
+        <Item4 Ref="31" ControlType="XRPanel" Name="XrPanel5" SizeF="247.3749,312.5" LocationFloat="9.874995, 342.7084" Dpi="100" Borders="All">
+          <Controls>
+            <Item1 Ref="32" ControlType="XRLabel" Name="XrLabel58" Text="TOTAL                     Q" TextAlignment="MiddleLeft" SizeF="244.5832,19.87502" LocationFloat="1.791541, 292.6249" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="2,2,0,0,100">
+              <StylePriority Ref="33" UseFont="false" UseTextAlignment="false" />
+            </Item1>
+            <Item2 Ref="34" ControlType="XRLabel" Name="XrLabel59" Text="MONTO Q." TextAlignment="MiddleLeft" SizeF="101.0835,19.87496" LocationFloat="146.6248, 0" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="2,2,0,0,100">
+              <StylePriority Ref="35" UseFont="false" UseTextAlignment="false" />
+            </Item2>
+            <Item3 Ref="36" ControlType="XRLabel" Name="XrLabel60" Text="DESCRIPCION" TextAlignment="MiddleLeft" SizeF="145.9581,19.87496" LocationFloat="0.6666819, 0" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="2,2,0,0,100">
+              <StylePriority Ref="37" UseFont="false" UseTextAlignment="false" />
+            </Item3>
+          </Controls>
+          <StylePriority Ref="38" UseBorders="false" />
+        </Item4>
+        <Item5 Ref="39" ControlType="XRPanel" Name="XrPanel4" SizeF="247.375,193.75" LocationFloat="525.9998, 106.25" Dpi="100" Borders="All">
+          <Controls>
+            <Item1 Ref="40" ControlType="XRLabel" Name="XrLabel54" Text="TOTAL                     Q" TextAlignment="MiddleLeft" SizeF="244.5832,19.87502" LocationFloat="1.791541, 173.875" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="2,2,0,0,100">
+              <StylePriority Ref="41" UseFont="false" UseTextAlignment="false" />
+            </Item1>
+            <Item2 Ref="42" ControlType="XRLabel" Name="XrLabel55" Text="MONTO Q." TextAlignment="MiddleLeft" SizeF="101.0835,19.87496" LocationFloat="146.6248, 0" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="2,2,0,0,100">
+              <StylePriority Ref="43" UseFont="false" UseTextAlignment="false" />
+            </Item2>
+            <Item3 Ref="44" ControlType="XRLabel" Name="XrLabel56" Text="DESCRIPCION" TextAlignment="MiddleLeft" SizeF="145.9581,19.87496" LocationFloat="0.6666819, 0" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="2,2,0,0,100">
+              <StylePriority Ref="45" UseFont="false" UseTextAlignment="false" />
+            </Item3>
+          </Controls>
+          <StylePriority Ref="46" UseBorders="false" />
+        </Item5>
+        <Item6 Ref="47" ControlType="XRLabel" Name="XrLabel57" Text="3 DEPOSITO CLIENTES" TextAlignment="MiddleLeft" SizeF="246.0417,19.87496" LocationFloat="527.333, 86.37505" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="2,2,0,0,100">
+          <StylePriority Ref="48" UseFont="false" UseTextAlignment="false" />
+        </Item6>
+        <Item7 Ref="49" ControlType="XRPanel" Name="XrPanel3" SizeF="247.375,193.75" LocationFloat="271.3752, 106.25" Dpi="100" Borders="All">
+          <Controls>
+            <Item1 Ref="50" ControlType="XRLabel" Name="XrLabel50" Text="TOTAL                     Q" TextAlignment="MiddleLeft" SizeF="244.5832,19.87502" LocationFloat="1.791541, 173.875" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="2,2,0,0,100">
+              <StylePriority Ref="51" UseFont="false" UseTextAlignment="false" />
+            </Item1>
+            <Item2 Ref="52" ControlType="XRLabel" Name="XrLabel51" Text="MONTO Q." TextAlignment="MiddleLeft" SizeF="101.0835,19.87496" LocationFloat="146.6248, 0" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="2,2,0,0,100">
+              <StylePriority Ref="53" UseFont="false" UseTextAlignment="false" />
+            </Item2>
+            <Item3 Ref="54" ControlType="XRLabel" Name="XrLabel52" Text="DESCRIPCION" TextAlignment="MiddleLeft" SizeF="145.9581,19.87496" LocationFloat="0.6666819, 0" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="2,2,0,0,100">
+              <StylePriority Ref="55" UseFont="false" UseTextAlignment="false" />
+            </Item3>
+          </Controls>
+          <StylePriority Ref="56" UseBorders="false" />
+        </Item7>
+        <Item8 Ref="57" ControlType="XRLabel" Name="XrLabel53" Text="2 PAGO DE INVENTARIO" TextAlignment="MiddleLeft" SizeF="246.0417,19.87496" LocationFloat="272.7085, 86.37505" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="2,2,0,0,100">
+          <StylePriority Ref="58" UseFont="false" UseTextAlignment="false" />
+        </Item8>
+        <Item9 Ref="59" ControlType="XRLabel" Name="XrLabel46" Text="1 DETALLE DEPOSITOS" TextAlignment="MiddleLeft" SizeF="246.0417,19.87496" LocationFloat="10.41675, 86.37505" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="2,2,0,0,100">
+          <StylePriority Ref="60" UseFont="false" UseTextAlignment="false" />
+        </Item9>
+        <Item10 Ref="61" ControlType="XRPanel" Name="XrPanel2" SizeF="247.375,193.75" LocationFloat="9.083446, 106.25" Dpi="100" Borders="All">
+          <Controls>
+            <Item1 Ref="62" ControlType="XRLabel" Name="XrLabel49" Text="TOTAL                     Q" TextAlignment="MiddleLeft" SizeF="244.5832,19.87502" LocationFloat="1.791541, 173.875" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="2,2,0,0,100">
+              <StylePriority Ref="63" UseFont="false" UseTextAlignment="false" />
+            </Item1>
+            <Item2 Ref="64" ControlType="XRLabel" Name="XrLabel48" Text="MONTO Q." TextAlignment="MiddleLeft" SizeF="101.0835,19.87496" LocationFloat="146.6248, 0" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="2,2,0,0,100">
+              <StylePriority Ref="65" UseFont="false" UseTextAlignment="false" />
+            </Item2>
+            <Item3 Ref="66" ControlType="XRLabel" Name="XrLabel47" Text="DESCRIPCION" TextAlignment="MiddleLeft" SizeF="145.9581,19.87496" LocationFloat="0.6666819, 0" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="2,2,0,0,100">
+              <StylePriority Ref="67" UseFont="false" UseTextAlignment="false" />
+            </Item3>
+          </Controls>
+          <StylePriority Ref="68" UseBorders="false" />
+        </Item10>
+        <Item11 Ref="69" ControlType="XRLabel" Name="XrLabel39" Text="Total:" SizeF="57.70833,23" LocationFloat="185.3751, 9.999974" Dpi="100" Font="Tahoma, 9.75pt, charSet=0" Padding="2,2,0,0,100" Borders="None">
+          <StylePriority Ref="70" UseFont="false" UseBorders="false" />
+        </Item11>
+        <Item12 Ref="71" ControlType="XRLabel" Name="XrLabel38" TextAlignment="MiddleRight" SizeF="113.5417,28.20829" LocationFloat="246.7918, 7.958476" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="2,2,0,0,100">
+          <Summary Ref="72" FormatString="{0:c2}" Running="Report" />
+          <DataBindings>
+            <Item1 Ref="73" PropertyName="Text" DataMember="tblDetalleVentas.VENTAS" />
+          </DataBindings>
+          <StylePriority Ref="74" UseFont="false" UseTextAlignment="false" />
+        </Item12>
+        <Item13 Ref="75" ControlType="XRLabel" Name="XrLabel24" Text="XrLabel24" SizeF="614,29.25" LocationFloat="27.66666, 45.12501" Dpi="100" Font="Tahoma, 6.75pt, charSet=0" Padding="2,2,0,0,100" BorderColor="Gray" Borders="All">
+          <DataBindings>
+            <Item1 Ref="76" PropertyName="Text" DataMember="tbl.OBS" />
+          </DataBindings>
+          <StylePriority Ref="77" UseFont="false" UseBorderColor="false" UseBorders="false" />
+        </Item13>
+        <Item14 Ref="78" ControlType="XRLabel" Name="XrLabel27" Text="Observaciones:" TextAlignment="TopRight" SizeF="113.125,19.87496" LocationFloat="27.58333, 25.25005" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="2,2,0,0,100">
+          <StylePriority Ref="79" UseFont="false" UseTextAlignment="false" />
+        </Item14>
+        <Item15 Ref="80" ControlType="XRLabel" Name="XrLabel6" Text="Total Movimientos:" SizeF="124.375,23" LocationFloat="440.7082, 7.958476" Dpi="100" Font="Tahoma, 9.75pt, charSet=0" Padding="2,2,0,0,100" Borders="None">
+          <StylePriority Ref="81" UseFont="false" UseBorders="false" />
+        </Item15>
+        <Item16 Ref="82" ControlType="XRLabel" Name="XrLabel18" Text="XrLabel18" TextAlignment="MiddleLeft" SizeF="63.54166,23" LocationFloat="567.6666, 7.958476" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="2,2,0,0,100" Borders="None">
+          <DataBindings>
+            <Item1 Ref="83" PropertyName="Text" DataMember="tbl.TOTALMOVIMIENTOS" />
+          </DataBindings>
+          <StylePriority Ref="84" UseFont="false" UseBorders="false" UseTextAlignment="false" />
+        </Item16>
+        <Item17 Ref="85" ControlType="XRPanel" Name="XrPanel6" SizeF="247.3749,312.5" LocationFloat="522.6251, 342.7084" Dpi="100" Borders="All">
+          <Controls>
+            <Item1 Ref="86" ControlType="XRLabel" Name="XrLabel62" Text="TOTAL                     Q" TextAlignment="MiddleLeft" SizeF="244.5832,19.87502" LocationFloat="1.791541, 292.6249" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="2,2,0,0,100">
+              <StylePriority Ref="87" UseFont="false" UseTextAlignment="false" />
+            </Item1>
+            <Item2 Ref="88" ControlType="XRLabel" Name="XrLabel63" Text="MONTO Q." TextAlignment="MiddleLeft" SizeF="101.0835,19.87496" LocationFloat="146.6248, 0" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="2,2,0,0,100">
+              <StylePriority Ref="89" UseFont="false" UseTextAlignment="false" />
+            </Item2>
+            <Item3 Ref="90" ControlType="XRLabel" Name="XrLabel64" Text="DESCRIPCION" TextAlignment="MiddleLeft" SizeF="145.9581,19.87496" LocationFloat="0.6666819, 0" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="2,2,0,0,100">
+              <StylePriority Ref="91" UseFont="false" UseTextAlignment="false" />
+            </Item3>
+          </Controls>
+          <StylePriority Ref="92" UseBorders="false" />
+        </Item17>
+        <Item18 Ref="93" ControlType="XRLabel" Name="XrLabel65" Text="7 CUENTAS POR COBRAR" TextAlignment="MiddleLeft" SizeF="245.8749,19.87503" LocationFloat="523.1249, 322.8334" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="2,2,0,0,100">
+          <StylePriority Ref="94" UseFont="false" UseTextAlignment="false" />
+        </Item18>
+        <Item19 Ref="95" ControlType="XRLabel" Name="XrLabel73" Text="6 PAGO DE BONOS" TextAlignment="MiddleLeft" SizeF="246.0417,19.87496" LocationFloat="269.542, 492.625" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="2,2,0,0,100">
+          <StylePriority Ref="96" UseFont="false" UseTextAlignment="false" />
+        </Item19>
+        <Item20 Ref="97" ControlType="XRPanel" Name="XrPanel8" SizeF="247.375,140.1458" LocationFloat="266.9586, 512.5" Dpi="100" Borders="All">
+          <Controls>
+            <Item1 Ref="98" ControlType="XRLabel" Name="XrLabel70" Text="TOTAL                     Q" TextAlignment="MiddleLeft" SizeF="244.5832,19.87502" LocationFloat="3.291733, 120.2708" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="2,2,0,0,100">
+              <StylePriority Ref="99" UseFont="false" UseTextAlignment="false" />
+            </Item1>
+            <Item2 Ref="100" ControlType="XRLabel" Name="XrLabel71" Text="MONTO Q." TextAlignment="MiddleLeft" SizeF="101.0835,19.87496" LocationFloat="146.6248, 0" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="2,2,0,0,100">
+              <StylePriority Ref="101" UseFont="false" UseTextAlignment="false" />
+            </Item2>
+            <Item3 Ref="102" ControlType="XRLabel" Name="XrLabel72" Text="DESCRIPCION" TextAlignment="MiddleLeft" SizeF="145.9581,19.87496" LocationFloat="0.6666819, 0" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="2,2,0,0,100">
+              <StylePriority Ref="103" UseFont="false" UseTextAlignment="false" />
+            </Item3>
+          </Controls>
+          <StylePriority Ref="104" UseBorders="false" />
+        </Item20>
+      </Controls>
+    </Item4>
+    <Item5 Ref="105" ControlType="ReportHeaderBand" Name="ReportHeader" HeightF="485.1668" Dpi="100">
+      <Controls>
+        <Item1 Ref="106" ControlType="XRPanel" Name="XrPanel1" SizeF="737.9584,353.6667" LocationFloat="14.91664, 111.6252" Dpi="100" Borders="All">
+          <Controls>
+            <Item1 Ref="107" ControlType="XRLabel" Name="XrLabel45" Text="XrLabel45" TextAlignment="MiddleRight" SizeF="124.4581,22.99998" LocationFloat="137.4586, 173.792" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="2,2,0,0,100" Borders="None">
+              <DataBindings>
+                <Item1 Ref="108" FormatString="{0:c2}" PropertyName="Text" DataMember="tbl.DEVOLUCIONES" />
+              </DataBindings>
+              <StylePriority Ref="109" UseFont="false" UseBorders="false" UseTextAlignment="false" />
+            </Item1>
+            <Item2 Ref="110" ControlType="XRLabel" Name="XrLabel40" Text="Devoluciones(-):" SizeF="124.9165,19.87497" LocationFloat="12.08353, 176.917" Dpi="100" Font="Tahoma, 9.75pt, charSet=0" Padding="2,2,0,0,100" Borders="None">
+              <StylePriority Ref="111" UseFont="false" UseBorders="false" />
+            </Item2>
+            <Item3 Ref="112" ControlType="XRLabel" Name="XrLabel37" Text="TARJETA" TextAlignment="MiddleCenter" SizeF="297.0001,25.0833" LocationFloat="311.7501, 0" Dpi="100" Font="Tahoma, 9.75pt, charSet=0" ForeColor="White" BackColor="DimGray" Padding="2,2,0,0,100" Borders="All">
+              <StylePriority Ref="113" UseFont="false" UseForeColor="false" UseBackColor="false" UseBorders="false" UseTextAlignment="false" />
+            </Item3>
+            <Item4 Ref="114" ControlType="XRLabel" Name="XrLabel10" Text="XrLabel10" TextAlignment="MiddleRight" SizeF="128.5832,23.00002" LocationFloat="435.125, 176.9169" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="2,2,0,0,100" Borders="None">
+              <DataBindings>
+                <Item1 Ref="115" FormatString="{0:c2}" PropertyName="Text" DataMember="tbl.REPORTADOTARJETA" />
+              </DataBindings>
+              <StylePriority Ref="116" UseFont="false" UseBorders="false" UseTextAlignment="false" />
+            </Item4>
+            <Item5 Ref="117" ControlType="XRLabel" Name="XrLabel36" Text="Reportado Tarjeta:" SizeF="125.542,19.87502" LocationFloat="308.8749, 176.9169" Dpi="100" Font="Tahoma, 9.75pt, charSet=0" Padding="2,2,0,0,100" Borders="None">
+              <StylePriority Ref="118" UseFont="false" UseBorders="false" />
+            </Item5>
+            <Item6 Ref="119" ControlType="XRLine" Name="XrLine5" SizeF="2,117.7083" LocationFloat="295.1248, 146.7916" Dpi="100" />
+            <Item7 Ref="120" ControlType="XRLabel" Name="XrLabel21" Text="Efectivo reportado:" SizeF="124.0415,19.87498" LocationFloat="12.54164, 250.8753" Dpi="100" Font="Tahoma, 9.75pt, charSet=0" Padding="2,2,0,0,100" Borders="None">
+              <StylePriority Ref="121" UseFont="false" UseBorders="false" />
+            </Item7>
+            <Item8 Ref="122" ControlType="XRLabel" Name="XrLabel44" Text="Efectivo Inicial:" SizeF="112.7501,19.87497" LocationFloat="15.16654, 96.83337" Dpi="100" Font="Tahoma, 9.75pt, charSet=0" Padding="2,2,0,0,100" Borders="None">
+              <StylePriority Ref="123" UseFont="false" UseBorders="false" />
+            </Item8>
+            <Item9 Ref="124" ControlType="XRLabel" Name="XrLabel43" Text="Cheques  (-):" SizeF="112.7501,19.87497" LocationFloat="12.54164, 221.7918" Dpi="100" Font="Tahoma, 9.75pt, charSet=0" Padding="2,2,0,0,100" Borders="None">
+              <StylePriority Ref="125" UseFont="false" UseBorders="false" />
+            </Item9>
+            <Item10 Ref="126" ControlType="XRLabel" Name="XrLabel42" Text="XrLabel42" TextAlignment="MiddleRight" SizeF="128.6664,23" LocationFloat="140.2917, 96.83337" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="2,2,0,0,100" Borders="None">
+              <DataBindings>
+                <Item1 Ref="127" FormatString="{0:c2}" PropertyName="Text" DataMember="tbl.EFECTIVOINICIAL" />
+              </DataBindings>
+              <StylePriority Ref="128" UseFont="false" UseBorders="false" UseTextAlignment="false" />
+            </Item10>
+            <Item11 Ref="129" ControlType="XRLabel" Name="XrLabel41" Text="XrLabel41" TextAlignment="MiddleRight" SizeF="124.0415,19.87492" LocationFloat="137.6669, 221.7918" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="2,2,0,0,100" Borders="None">
+              <DataBindings>
+                <Item1 Ref="130" FormatString="{0:c2}" PropertyName="Text" DataMember="tbl.TOTALCHEQUES" />
+              </DataBindings>
+              <StylePriority Ref="131" UseFont="false" UseBorders="false" UseTextAlignment="false" />
+            </Item11>
+            <Item12 Ref="132" ControlType="XRLabel" Name="XrLabel31" Text="Diferencia:" SizeF="111.375,19.87495" LocationFloat="13.3749, 285.2504" Dpi="100" Font="Tahoma, 9.75pt, charSet=0" Padding="2,2,0,0,100" Borders="None">
+              <StylePriority Ref="133" UseFont="false" UseBorders="false" />
+            </Item12>
+            <Item13 Ref="134" ControlType="XRLabel" Name="XrLabel11" Text="XrLabel11" TextAlignment="MiddleRight" SizeF="123.625,19.87489" LocationFloat="138.5, 285.2504" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="2,2,0,0,100" Borders="None">
+              <DataBindings>
+                <Item1 Ref="135" FormatString="{0:c2}" PropertyName="Text" DataMember="tbl.TOTALFINAL" />
+              </DataBindings>
+              <StylePriority Ref="136" UseFont="false" UseBorders="false" UseTextAlignment="false" />
+            </Item13>
+            <Item14 Ref="137" ControlType="XRLabel" Name="XrLabel35" Text="EFECTIVO" TextAlignment="MiddleCenter" SizeF="297.0001,25.0833" LocationFloat="0, 0" Dpi="100" Font="Tahoma, 9.75pt, charSet=0" ForeColor="White" BackColor="DimGray" Padding="2,2,0,0,100" Borders="All">
+              <StylePriority Ref="138" UseFont="false" UseForeColor="false" UseBackColor="false" UseBorders="false" UseTextAlignment="false" />
+            </Item14>
+            <Item15 Ref="139" ControlType="XRLabel" Name="XrLabel12" Text="Gastos/Vales (-):" SizeF="126.0416,19.87498" LocationFloat="12.54164, 201.9168" Dpi="100" Font="Tahoma, 9.75pt, charSet=0" Padding="2,2,0,0,100" Borders="None">
+              <StylePriority Ref="140" UseFont="false" UseBorders="false" />
+            </Item15>
+            <Item16 Ref="141" ControlType="XRLabel" Name="lbTotalGastosFinal" Text="lbTotalGastos" TextAlignment="MiddleRight" SizeF="123.8333,22.99998" LocationFloat="138.7919, 198.792" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="2,2,0,0,100" Borders="None">
+              <DataBindings>
+                <Item1 Ref="142" FormatString="{0:c2}" PropertyName="Text" DataMember="tbl.TOTALGASTOS" />
+              </DataBindings>
+              <StylePriority Ref="143" UseFont="false" UseBorders="false" UseTextAlignment="false" />
+            </Item16>
+            <Item17 Ref="144" ControlType="XRLine" Name="XrLine4" SizeF="611.4583,2.083336" LocationFloat="8.708143, 270.7502" Dpi="100" />
+            <Item18 Ref="145" ControlType="XRLabel" Name="XrLabel34" Text="Faltante" SizeF="73.54153,25.08329" LocationFloat="308.0416, 323.792" Dpi="100" Font="Tahoma, 9.75pt, charSet=0" Padding="2,2,0,0,100" Borders="None">
+              <StylePriority Ref="146" UseFont="false" UseBorders="false" />
+            </Item18>
+            <Item19 Ref="147" ControlType="XRLabel" Name="XrLabel33" Text="Sobrante:" SizeF="73.12485,25.08328" LocationFloat="308.25, 285.2503" Dpi="100" Font="Tahoma, 9.75pt, charSet=0" Padding="2,2,0,0,100" Borders="None">
+              <StylePriority Ref="148" UseFont="false" UseBorders="false" />
+            </Item19>
+            <Item20 Ref="149" ControlType="XRLabel" Name="XrLabel7" Text="Total Vta Contado:" SizeF="125.8333,19.87498" LocationFloat="14.45832, 27.79166" Dpi="100" Font="Tahoma, 9.75pt, charSet=0" Padding="2,2,0,0,100" Borders="None">
+              <StylePriority Ref="150" UseFont="false" UseBorders="false" />
+            </Item20>
+            <Item21 Ref="151" ControlType="XRLabel" Name="lbTotalGastos" TextAlignment="MiddleRight" SizeF="128.6665,19.87497" LocationFloat="140.5002, 53.95839" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="2,2,0,0,100" Borders="None">
+              <DataBindings>
+                <Item1 Ref="152" FormatString="{0:c2}" PropertyName="Text" DataMember="tbl.TOTALRECIBOS" />
+              </DataBindings>
+              <StylePriority Ref="153" UseFont="false" UseBorders="false" UseTextAlignment="false" />
+            </Item21>
+            <Item22 Ref="154" ControlType="XRLabel" Name="XrLabel28" Text="Total Recibos cxc:" SizeF="112.7501,19.87497" LocationFloat="13.58323, 53.95839" Dpi="100" Font="Tahoma, 9.75pt, charSet=0" Padding="2,2,0,0,100" Borders="None">
+              <StylePriority Ref="155" UseFont="false" UseBorders="false" />
+            </Item22>
+            <Item23 Ref="156" ControlType="XRLabel" Name="XrLabel17" TextAlignment="MiddleRight" SizeF="128.875,19.87498" LocationFloat="140.5, 27.79166" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="2,2,0,0,100" Borders="None">
+              <DataBindings>
+                <Item1 Ref="157" FormatString="{0:Q0.00}" PropertyName="Text" DataMember="tbl.TOTALVENTAS" />
+              </DataBindings>
+              <StylePriority Ref="158" UseFont="false" UseBorders="false" UseTextAlignment="false" />
+            </Item23>
+            <Item24 Ref="159" ControlType="XRLabel" Name="XrLabel30" Text="Total Tarjeta:" SizeF="92.91669,19.87499" LocationFloat="308.8749, 146.7916" Dpi="100" Font="Tahoma, 9.75pt, charSet=0" Padding="2,2,0,0,100" Borders="None">
+              <StylePriority Ref="160" UseFont="false" UseBorders="false" />
+            </Item24>
+            <Item25 Ref="161" ControlType="XRLabel" Name="XrLabel29" TextAlignment="MiddleRight" SizeF="128.7916,19.87497" LocationFloat="435.1249, 146.7916" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="2,2,0,0,100" Borders="None">
+              <DataBindings>
+                <Item1 Ref="162" FormatString="{0:c2}" PropertyName="Text" DataMember="tbl.TOTALTARJETA" />
+              </DataBindings>
+              <StylePriority Ref="163" UseFont="false" UseBorders="false" UseTextAlignment="false" />
+            </Item25>
+            <Item26 Ref="164" ControlType="XRLabel" Name="lbTotalIngresos" Text="lbTotalIngresos" TextAlignment="MiddleRight" SizeF="126.375,23" LocationFloat="136.7085, 124.9584" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="2,2,0,0,100" Borders="None">
+              <DataBindings>
+                <Item1 Ref="165" FormatString="{0:c2}" PropertyName="Text" DataMember="tbl.TOTALVTATARJETARECIBOS" />
+              </DataBindings>
+              <StylePriority Ref="166" UseFont="false" UseBorders="false" UseTextAlignment="false" />
+            </Item26>
+            <Item27 Ref="167" ControlType="XRLabel" Name="XrLabel32" Text="Total Ingresos:" SizeF="112.0834,19.87502" LocationFloat="13.00001, 124.9584" Dpi="100" Font="Tahoma, 9.75pt, charSet=0" Padding="2,2,0,0,100" Borders="None">
+              <StylePriority Ref="168" UseFont="false" UseBorders="false" />
+            </Item27>
+            <Item28 Ref="169" ControlType="XRLine" Name="XrLine3" SizeF="612.5831,5.125015" LocationFloat="14.24999, 119.8334" Dpi="100" />
+            <Item29 Ref="170" ControlType="XRLabel" Name="XrLabel22" TextAlignment="MiddleRight" SizeF="126.0837,19.87498" LocationFloat="136.7914, 250.8753" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="2,2,0,0,100" Borders="None">
+              <DataBindings>
+                <Item1 Ref="171" FormatString="{0:Q0.00}" PropertyName="Text" DataMember="tbl.TOTALREPORTADO" />
+              </DataBindings>
+              <StylePriority Ref="172" UseFont="false" UseBorders="false" UseTextAlignment="false" />
+            </Item29>
+            <Item30 Ref="173" ControlType="XRLabel" Name="txtSobrante" Text="txtSobrante" TextAlignment="MiddleRight" SizeF="99.45831,19.87503" LocationFloat="381.5832, 285.2503" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="2,2,0,0,100" Borders="None">
+              <DataBindings>
+                <Item1 Ref="174" FormatString="{0:Q0.00}" PropertyName="Text" DataMember="tbl.SOBRANTE" />
+              </DataBindings>
+              <StylePriority Ref="175" UseFont="false" UseBorders="false" UseTextAlignment="false" />
+            </Item30>
+            <Item31 Ref="176" ControlType="XRLabel" Name="txtFaltante" Text="txtFaltante" TextAlignment="MiddleRight" SizeF="99.45825,19.87499" LocationFloat="381.7915, 323.792" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="2,2,0,0,100" Borders="None">
+              <DataBindings>
+                <Item1 Ref="177" FormatString="{0:Q0.00}" PropertyName="Text" DataMember="tbl.FALTANTE" />
+              </DataBindings>
+              <StylePriority Ref="178" UseFont="false" UseBorders="false" UseTextAlignment="false" />
+            </Item31>
+          </Controls>
+          <StylePriority Ref="179" UseBorders="false" />
+        </Item1>
+        <Item2 Ref="180" ControlType="XRLine" Name="XrLine2" SizeF="629.1666,2" LocationFloat="12.50002, 68.16673" Dpi="100" />
+        <Item3 Ref="181" ControlType="XRPictureBox" Name="imgLogo" Image="iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAYAAABccqhmAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAALEgAACxIB0t1+/AAAGM9JREFUeF7tnb+V5EhyxtcEantzCmkCTTgTRqR4Ag0YE8YDrrA9pDgm0ITygBQ43SecUCLF9YCMLzLQU10VKOSfSCABfL/3vvd2p6sSQCIjMiIygfqFEEIIIYQQQsih+cd/+69/+PXf3/4y6c+//88/258IIUfj08uPz3/69vrbn15e//vTt7f/m9XL6x/yuf/89O31iziGf7KvE0L2Bgz408vbdxi1a+wZgsP49fe3v1qThJDRQXivhu8YdIOudASEDA5C/ZYZP0MXpgaEDEiHWd+XOBgUDu2whJAtQci/WNzrIKYEhGzMVsY/iU6AkA1ZDPvTst5v9+v8qVD447N85vLwnUJxDwEhG4C1es8gJ8HwYej28VmQzzdFEeJkco5DCAkirfHPV/tLQ/PWVAKbh6wpQkhvxOhmQ/favLzVCXBlgJAVgKF5Bgi1zsTI5712M3WxZgghvUh79V0DxCzcvEmnZT8BowBCOqK5v2N4EMJ3+1gTTVGAOA9rhhASzdPK/8vbV/tYM277meKKACGdEAObX7d/+fHZPtaMtFe/PyDwPAghN7gGZ4rMv6W9BgcQF4kQQozF3HyUCICrAeSIwADTEpzk4TLLPSi9RQev2OryuGw6tmtwKuz8s48247VfoKs1Ew76NucecHsyaUIH2u9vf5VB9b1yc8wV3w2dlXWAu8eaFGJ49oyA1362rKkQ9HzS0uT1/jhL0nsn38W9xD21Jgl5BLMGZlEZOMUDbUEhb9PJcAAhdQBppyX8V1lTTagD7nAvcI8ZIRClo9E/CLNRy8DLcQCtewFSeO23XSJrrgq9J3VRV6noDM4I1qkxu6w0yBy9frFTKSLHAagqN+MgRI56nZg1WYzm9k57vYWxgDHBPQwHBgNcZ/ugQd6kCiMtmp0L2w+edatqEThnp611Ze9PwFix0yJ7Rw1nhMF1rwojdduZV9YLPFNFPdQpFi8Djnp/MHbsFMnesBmzuaDVVYWrBG4by5I+SMtjCHHhSPDf3WofkqrY6WYRserQWXCkdAR7QW4WHpgZ2/AnycxbknfKd8a/rgKnhmsfIiXLE1+JPjJpMA0YSi6pYMbcqkhWoiKHllvYHEkyxkqukayADqT9zCQfJedtl7GIRTd+OwNI0oqiF5Ls+Z6VOG7SCeRmckO6r+H3VslGIfn8sGlASa5sG33cdnaka8k1kyAQgmG2cW7IXpVdOTen57WxtYqq//j83fd3K4xFpgUrkfaG7zR0fCKE93aJi8jnhzOeotl/8FSmSpoW8F0I3TjgrH+n/B2CoxlQce6/g2JmrRgNdOCos/6tSvfxD2NEcl9KB/x227BXEqOBGGzWx4YVv6MPppI0AGBJymtnTZU+THPI8H9GGLuMBioJ3p++E5U9KKQOcsM+Klm9mDhy+O8J96fUSZ4eXSI6eMjvqTQNAFs5gRrjB+dz6iIZy7X9dTrOFPJ7Kk0DJlZLBzCYK9e+zxT+e8LYtq4g92wdzo6juvcFgBUip6b98GcL/z1hjLMucIc+6nrCkN9TTRpwCwZXh2gg5LVmdPAmGeusCxhnzfefKWJw/Pnb6794bZdKjPZv1mQT6uSd9k8rpFJnrwvoQzxe55xdMoNbF1WDPN1tu1wh7/kfYclySJ31oSIOiOdqzRNHcgCalvhtU1CAw98NNhgO8yBIL7VWjAONrtkBnH1lJ1OXVqc/PLhAFoLy1VoL8NqsUJMDYO6fr0OvEGAg0PjLhP6y7qvCa7NUrZEI73mZ0F8RReCh0FmAlf46NeSHbnulaihSsc5TqSMtE9L4AySGVBIaph13MZtuZEb6G9oq2QCk9Qcaf5uO4AR0jd+7OKpGTzfjqKMVQ+0Zcqe2X788G5h2z3f/mrZRtNu9AjT+TkrR1AUzrOTneEGK/PcGEZadh55Dmu23OY8TaHdOgHu+KSpa9c+IrApzP4rqJLEtM7MxofFTVGeN6AS4wYei1hNsbZgNQ1geovFT1LqCzZUszXaBa/wUtaHE9jbbK8BlPooaQ6svE/LpLooaS63PbGTBYh9FjauuxcEz/DoPRe1esNHIXyXSWZ8hP0XtSrDZ5mjAXivFBzsoap+6wobNnPPhrE9Rx1FRNKDLe8z1KepYEpt+ulxo6/oM94+kl7f/df+9RC+vf3f/ndqrPr5XIr1IgoZ/OGk1+PU/3L8V6fVfGREeUlfdRch1/WMqpXLtP7yC3NGiQ/fv1H4F2496dTQ1kKYQL8IBaJgo0AkcU3QAB9NtfhfpAACdwPEkg4T53VF0a/wg2gEAOoEDSWwfD/bgxZL+B6h9SAt+j9s/ezgAwG3hxxBsnx5950IhZ+6Z8F4OAOCYLCDvW+8Ro/wPlwH3KDFwvYEz9HQAExHHoDbR1W6hhXT+h6gxdcl5E8waDgDYXhL+4vOedJ8ycu//LnQpebgjIr2zprKwh8foCAYXbN1u2UcYzgXrJe2/bjSMK25Yzox/jx3XazNb1lQRWh9IE0ptaqmOTh0Yi43BWviBERs0rAm0C4P4w1tbNVROTvbyUEBLAx1OAj/79RUh2v33SwlwAD/zxEpwDWnVIF236s6orS/0uu8dnX4/fe/2vKhylT0abOEjO75UOrjH+BmnAAdwsaY2R39ujtFAjS7v1f4a4IFTKPb2ncs+z4V1VfSXdd3mHMkBAPQt+tg5T8qkNiq2aqlnn7GoTkEG15KmlxDghLyTPYrQ6bhe7ZyBwDl551ugoRzABK7r8JOR/QSYPoxl9rSgYSaeB3ARBw3fnv5m/9ZgYDjnXKIhHcCEpanHq1eJrWS/wWcvBAzGOCVnVF3f0Bl/YMOfOLoDmMC9aIwIHgqTWwr3zS7tWJjHdi96DWmOfmO4xakJcqsd3ZyzOIAJvd6Ke2pfT45k4xrDHiaWJtbeNTYZ/VxIZU5pLoy8qtE/+f7InM0BTGjejPuanMHsvZ0ztun7KzuDrN2dhwGDs1MHq9E+bHVcQM7nQ2HzCDkYrsPpnxLt0gHcowZ9c29FRQUz28fwzJlUSycoOSc71Pn44G3r8jDslBNH8vrlVB40E6e/SnQIBxBJimBfv9jkVe4QZIyr0e80quwOvDM8Ytr4gR1xH4WOw99p7Hm4gzBfdAAZYCxiTGJsemMWY1n/PvJSHSkDNxM39X2bq95orW1M8gzqVpg9LjIb/GZOrcvguDtmmeSarJlQUr+9fbVZdLmvfq7aYLuwpHcfjOq84TN5zjRAdMD8FHK5W0MtkT9Ag9RjedE7Trakv6yZZuQ+YBffbysst6ljrVE6vzROpkgT522XQEYGN6opNxtL19Ii5hxO2/kKcADIc9WwvPb3JXMQPz4zdx8ENXp47P0bvC+JVuxSq3HbzVWjA0gFs2PeG51ogpw0KcQMv2zDx17V6ATcNnPV4ADU+AfaXddRQ28HPxxpdeAUA+unGgzRbS9XlcdFiHy2e4T6DVemOqKDKhVr3BtwdKEgZV1RhNdWtiodgNVh/DaPLHF6jAY6oIWkoz/+uayqNXmnnXxVOAA4KretEwnFQusO0gqN/6dqQsymvqtwAPKdc9RmFkQnEASN/0YVBUH5Xn3aVOgALE3z2zqhmA40ouuuTseeWMUv6ZTvVDuA0gGsuyKddk6rl9c/WBishLmkL+uebOQ79Q6gsPCIiMFr5+Ti8xQ1oOPuOpISFRslHcDmYipQCGf/edEB7FLNv69wKk67jpwh66Js5Dt0AAOotC9Pi3QUfgnG7URq5SJgsQNgEXBWAc91nALkS24Hxsh+dutOyUjGf2hFztW6KRv53moOAOxhC7AuLWO/wv04SHsY+owD6RfrIvKMHuE/lhOxRm2HmAXRhzogHRyDDWQ5n5xruEe+u7IDUIfqtreVYPAYA7nXg8/12H/CJcEMpKPiPLAYTc0gntCQdhBnUFtJbnGotX03wuatdA761qDqF3pYROC2X6cxfjNyaPyOq1OL8d+zqTOQ49ppFNMyI9f2H4xuI6eJN0J/bTH6eyIjUkQh1izx0GfInY6rkgwEazYUhOGYjXVgrDDIWwfNFg4A4F6uEQlM4X2v8Fq3N8fdZ24KegYGnNNpVarJl2voFhmgPWnbDlNNiwOwJqpJxhMdRseE9yXAwXjnUSE6gGdEOQAMEGtyVd4jA+ecsqWG//Y1yoFt6QAm7L5WFyNN+P2HbjP9MwInJjqAZxylo2vSBHwW34mOXEZwABOYsWHEBanBZkZ/Cx3ASkR19FYRwBxa20ipwt2684/PvQf3SA7gFnWSer8ffwAG/x7tCFugA1gJ3HSn06o00gDaklEdwJ5AFOL1T6kQ5VmTZA6v4+rENVdAB9CO9EXM3hS5F9YkmUM6qrVYNOnKKIAOoBXUZby+qVLAqs7hiQq3ILRlzZ4WOoB6NCUNXN79daVly12jxTKn82qFAo41fUpa+tOaOC3I2b1+qdFohemhCd1UI21tvYy0JS0VbGvilERGokmsSWUT3vniBM5aD6h1AGeesULzfhPD/wLQWV4nNup6xkigIQI45Zp1D+P/1PAw12lBp7md2aITpgN0APl0GXMizv4VaBQQWQuYJG3Cy9thDg8dwDK2AS1q+fmDuBLVgG4TdTo1ROLtz1AXoAN4jvVPr9fBcS9KK5FLMY6uGAB2qENCBzBPyx6JHB19bK2ChWd9X9h54GiADuCRzrN+Erf9xpGeputQD7gV2pebdjRHQAfwE+uLLrn+rRC12iFJFF2WZzyJI0DhRgbLISq36jy961zWYRyA7YbsbvgQ9k8w7+9E16KgJ0kNMGvY4XeLe23L2rUDSKmjjpe+of6tsMLEJb++wCjdzu8rGUTrvYMuGud6FrXXMFZn+y3GiBj/mbecr8pGTmDSBenInsI85xqWtaMiFgwPaZuc93qz/a1o/OuzsRNQYZaEMxg9MvDOfVGDOwCkZpsa/SQa/3aM4AQm6YsuxWhGrBl45/tUyGUH2y2JiEsLwbjncn7uea8tGv/2rF4YzJEMDEQHOLcRBoh7jjcy5/UdBjbKgNYinuTzmOX1/Jzz3lI4Jxr/IKSZYZBZwdONQ9giQrg/HwxeDZ/FwEapZSCNGtngb4Xz21MN6BTAG8vN2TYfLNMFg32NGoIcC7+ZJ6HzUAb/FzjE5Bj3c99wz+wSyGhgcNuAcm/e0EoRzAV1BBjqkcLLydjhhEaf3WeF+yP3xS6JjMzwKUGZbiOFoTclIZJRYxcntreZfUEXXJtdJtkDuGG4cXc38hDSWVRD+u2eXdCUS2ZEjVg0cjmMw/0pvSa+y2/XHCwaSJLrQVSwVpqA46AfcUw5/iGdqiPO+kfBagPBb3ndRLoL0S6rCxo53c7s/nkcWYd/R8RpSYN7nM1D2ZJz7jXbo09SlKT9cpScvVwM988DPLzc9PFnNzFKGKiddgg0+DvB8DespZANUUcwYkQQbPi4TqRAu12C6yEaPpmAsakj2L5YGFZ4sjx+nH3z4+jau45CdgpmA92wsn5ofI3YZPIe0dDoH4R9Cegf6ypCnvM+gzqDKVIIzVvCUIteULFnPv8obIHGE5pcziN1wDh1DTw+f25absJ3Mas57Z5bKbc/xKvcyGDobPvzARZ/AGYI36+d9bWCz9n+Xu8PO1k3EdKXKTKwNKHAIOvWmmn4H2Xbob8e6aEpsmN0b/wUHXhFOPm3mrCUhp8Eg0e9BLN8S82EkFWY9s9bhHApnangLOR75zT85ED10Wj0Aw2enAYM9lMV926NXRwm6izWFYScixQxHHcN38J4SZHSzE5jJ0Q42qx/a+jI2VmoI2SGVDzcZ65PQyekgb2E/Lbkpm8goqETEoAt77kGt5luCnI0dEI6MYrxTzM7q++ErMSmxo8ZngZPyDZsYvxm9Ajp7TSGQbdT64Yn+82Ab/XPSBAyNGmgOwbaSak6P47Ro56gDhD1BdQZ5lc+LvYVQo4BZrXVqv0I8TcM73VZUxwPDB1OSOsM3nk+kXyPP79FjoMM6v4vIBXDXzN8RkQzzei1hv5MaN8ORch+sVeMuYM8QjC+LWb8ZPwdoxppm/UAsmu6hv5a3IvN8ac8HbJ/egquD+G6e34BYipAdg3Ccm9gtwqzfsTsqPm6/w6DokJcyvn7OLot6xmEVIOB6w3oZknObYeowgp0S28xKq7E43qj6wAqOVc7BCH7ocfsnxua3/MequfP0lVLcXqcDk6AUQDZFZr7OwO5RS35cMX5VK/F27Fin25kFED2RIfKf/PmGKfNZ2o6XqotuO3WSSIXa5qQ8QkNg2XwR4TAbttzCphxpQ3s+PPbr9FAuxoJmSW8+NdY9Jtw255TwDE1FYhcGWAaQPaAbpDxBnClYEjWdBNe27OKcjqRUQDTALIHMFO5A7hCWJ+3Zpvx2p9VkAOIjoZQW7CmCRmTyPy/dtnPw2t/VkEOAEh7YSsCkf1BSBe8gVsrmUHDHojx2p9VoAPQXYbeMWoUeF6EhBMd8lqzIXjtzyoyApC23GPUqXk5lJBuYMZ2Bm21rNkQvPZnRQdASDnRDiBqBQAULcnRARBSTrQDCK4B5L+UJNABhNYA6ADIyEQ7AGwptqabkfY2cQChm4HoAMjIRO+Bx5KiNd2MtJftAKIij/BnAugAyOg4g7ZJUZtfpK3VHYBEEqGPRLc8EUnIKshAjf6hz5BZD+3ctTurCAcgbYS/EIUbgcjwRM96qoAn4aSdVR2AtJNfc8gUtwKT4dFXbjmDt0kvr3+0Dn5pZzUHELz0N+lqzRMyLuGPwZpQEGzZFyBtrOIAop+GnMT8n+yGLmmACE6gNhKQ73d3AL2MH0JNwQ5DyNhgsHqDOEQSXdQYaIpMJDTPiE5K27e2uzg9KPKxaEJWoadBqCo367w7Aq9NU4kDQEQS+go0Ryz+kd2hUUCHWsCtYHg4jh2yiHR+vpPKdQDpZ737XiPO0Q5HyL7o/buAKhhgw9ZdzxEsFRsxI8vnwpf5HiTX1lL4JGRzZCD3NxSRRQNVxTtw6wjsnx7ISR9CxTcBk72TjKZzmHwrMeKWWROOwP7zA1bhj97lOCsu+5HDoCHzqk4gpQUR4TOiCmlzlShmEqv+5HB02SG4JHEErfvn13YArRueCBmWnhtlFnTdgyOg8ZPDs6ETgNodQTr/8FoAjZ+chtVrAo+KcQRR19BYuCRkd6yxgy5DTY4ARqvLgi2OoGEPAyG7BgaEirdrGOvq2rLmjqXD4uvQlQqu8xOyzo7BPF1Q7LPTKkZXOjKiAdu0xKf7CJkYJCWYdMH52KkVsRjVMOQnZB7NqT3D2UIvb99rZ+r7qAbOrdapEHIqdJVg5d13T1XpCOw6rpz1CakgdKmtVVq0i9leTAjJ5H2pzTPKLSSOoHUPASGkEITgCMVdo9xAzOkJ2YDRHAHze0I2QBzB6o/pzonr+oRsxDARwUv7j5cQQioZwhHoSgG39xKyGeYI2h7QaRQjAUI2RpcP02681d7j9y6mA4TEELHxRjcUrVwwRGGQm4YIaSBtAtJQvukpvQm0sWadgG/2JaQBx1ijHEEqGK5QJ4g4X0JOh87WjkGZQhzBGnUCpAJ2OEJILmI8OTn7JWrZTR1Op/SAzw4QUoA9Rusa04yaX/I5keoO4cuIF2ueELJE9UwMow18ZDfycWTUHaxZQsgzAozuGuUE0A6q+c4xCvX6xZokhMxREf5/UK/199wXfj4R0wBClrBNO54BLWrJ+Ft35zU5J3Ee1gwhZA4twHkGtCQxsKWZXz6HlQV9R19tlNDyCnNrghAyR20BMGcVQD73cWlRjlWzn0C+W7VvIGLvAiGHRgylfM9+Zngtn51rWwz69UtuVFCbptABELJAZQSQVWDD5+6+91HiSHLqBLW1ADoAQhaoqgHId+zrT5HPLkYXuUbqfXdJPVYnCDkUVUW2nTgA+yohZA4YoGc8TyVpg339KTm/4JvjADCTe99dEPcBEJKDYzxLutpXn7KYXmQuD+qmIO/7T8R3AxCSSc5Mfa+cmfuJA8Djxdl79fH5u+8vqnUTEiGnoWqGzXju3nEA19LHiatSlMwIhRBiwGjujGhZC7WAWweAkLy0Kq/Lf1XPA/BBIEKKqH4m4IkTUAcgBpyTLtxTbfzyHS7/EVKBGFDVllvUEDyjQ7hfY4wtTwLmbFEmhDhU5ttJMNjC/P4eOAukCm77eeLSHyEtNBqgRgMlFf4JK0TWvyw0pRp8CxAhraDC7xpZpkqW4GC08p3iZb57MfQnJAgNxWudwEveNmEc43aVoEmZxySEZKIzc2khLrMCb0/31Yf7t8rclkwIKaQ4EsiYiauXGx2hXmHNEkJ6UOIElopw8vf6VYY7MecnZEWWVgeWtgannL9ubf9OV+7zJ2QDbAZ3c3cs/9nHXFpe7jkJx8ipMRBCOpFm8sfq/VI+Lp9pWeq7wvlYU4SQrUmrBB/eJ/h0Fx7+fvPZXIX9BiEhpAMaEUh4vxgBpJ1+npE/CKF+67ZiQshgWB3AqyFc4EBg9MzxCSGEEEKOxS+//D/8HeAmu9YSDAAAAABJRU5ErkJggg==" Sizing="ZoomImage" SizeF="87.12504,60.16669" LocationFloat="9.999998, 10.00001" Dpi="100" />
+        <Item4 Ref="182" ControlType="XRLabel" Name="XrLabel1" Text="NO.:" SizeF="65.62502,17.79169" LocationFloat="12.50002, 70.16672" Dpi="100" Font="Tahoma, 9.75pt, charSet=0" Padding="2,2,0,0,100">
+          <StylePriority Ref="183" UseFont="false" />
+        </Item4>
+        <Item5 Ref="184" ControlType="XRLabel" Name="XrLabel2" Text="FECHA:" SizeF="65.62502,19.87499" LocationFloat="12.50002, 87.95834" Dpi="100" Font="Tahoma, 9.75pt, charSet=0" Padding="2,2,0,0,100">
+          <StylePriority Ref="185" UseFont="false" />
+        </Item5>
+        <Item6 Ref="186" ControlType="XRLabel" Name="XrLabel4" Text="USUARIO:" SizeF="66.20837,19.87497" LocationFloat="261.2085, 70.16672" Dpi="100" Font="Tahoma, 9.75pt, charSet=0" Padding="2,2,0,0,100">
+          <StylePriority Ref="187" UseFont="false" />
+        </Item6>
+        <Item7 Ref="188" ControlType="XRLabel" Name="XrLabel5" Text="INFORME DE VENTAS DIARIAS" SizeF="311.1667,23.00001" LocationFloat="106.8333, 10.00001" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="2,2,0,0,100">
+          <StylePriority Ref="189" UseFont="false" />
+        </Item7>
+        <Item8 Ref="190" ControlType="XRLabel" Name="XrLabel8" Text="Resumen por Vendedor" SizeF="215.5834,19.87497" LocationFloat="27.49999, 465.2919" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, Underline, charSet=0" Padding="2,2,0,0,100">
+          <StylePriority Ref="191" UseFont="false" />
+        </Item8>
+        <Item9 Ref="192" ControlType="XRLabel" Name="XrLabel9" Text="Ventas" TextAlignment="TopRight" SizeF="63.125,19.87497" LocationFloat="295.7088, 465.2919" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, Underline, charSet=0" Padding="2,2,0,0,100">
+          <StylePriority Ref="193" UseFont="false" UseTextAlignment="false" />
+        </Item9>
+        <Item10 Ref="194" ControlType="XRLabel" Name="XrLabel13" Text="XrLabel13" SizeF="167.4168,17.79168" LocationFloat="78.58337, 70.16672" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="2,2,0,0,100">
+          <DataBindings>
+            <Item1 Ref="195" PropertyName="Text" DataMember="tbl.CORRELATIVO" />
+          </DataBindings>
+          <StylePriority Ref="196" UseFont="false" />
+        </Item10>
+        <Item11 Ref="197" ControlType="XRLabel" Name="XrLabel14" Text="XrLabel14" SizeF="166.9583,19.87499" LocationFloat="78.58344, 87.95834" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="2,2,0,0,100">
+          <DataBindings>
+            <Item1 Ref="198" FormatString="{0:d/MM/yyyy}" PropertyName="Text" DataMember="tbl.FECHA" />
+          </DataBindings>
+          <StylePriority Ref="199" UseFont="false" />
+        </Item11>
+        <Item12 Ref="200" ControlType="XRLabel" Name="LBNOMEMPRESA" Text="EMPRESA" SizeF="333.6249,29.87509" LocationFloat="419.2501, 10.00001" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="2,2,0,0,100">
+          <StylePriority Ref="201" UseFont="false" />
+        </Item12>
+        <Item13 Ref="202" ControlType="XRLabel" Name="XrLabel25" Text="XrLabel25" SizeF="203.125,19.87497" LocationFloat="327.4168, 70.16672" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, charSet=0" Padding="2,2,0,0,100">
+          <DataBindings>
+            <Item1 Ref="203" PropertyName="Text" DataMember="tbl.USUARIO" />
+          </DataBindings>
+          <StylePriority Ref="204" UseFont="false" />
+        </Item13>
+        <Item14 Ref="205" ControlType="XRLabel" Name="XrLabel19" Text="%" SizeF="33.29172,19.87497" LocationFloat="418.5837, 465.2919" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, Underline, charSet=0" Padding="2,2,0,0,100">
+          <StylePriority Ref="206" UseFont="false" />
+        </Item14>
+        <Item15 Ref="207" ControlType="XRLabel" Name="XrLabel20" Text="No. Trans" TextAlignment="TopCenter" SizeF="77.87512,19.87497" LocationFloat="479.0839, 465.2919" Dpi="100" Font="Tahoma, 9.75pt, style=Bold, Underline, charSet=0" Padding="2,2,0,0,100">
+          <StylePriority Ref="208" UseFont="false" UseTextAlignment="false" />
+        </Item15>
+        <Item16 Ref="209" ControlType="XRPageInfo" Name="XrPageInfo1" PageInfo="DateTime" Format="{0:dddd, d 'de' MMMM 'de' yyyy}" TextAlignment="MiddleLeft" SizeF="307.2501,22.04164" LocationFloat="106.3333, 33.00001" Dpi="100" Font="Tahoma, 9pt, charSet=0" Padding="2,2,0,0,100">
+          <StylePriority Ref="210" UseFont="false" UseTextAlignment="false" />
+        </Item16>
+      </Controls>
+    </Item5>
+  </Bands>
+  <ObjectStorage>
+    <Item1 ObjectType="DevExpress.XtraReports.Serialization.ObjectStorageInfo, DevExpress.XtraReports.v16.1" Ref="0" Content="~Xtra#NULL" Type="Ares.DS_CorteCaja" />
+  </ObjectStorage>
+</XtraReportsLayoutSerializer>

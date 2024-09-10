@@ -1,0 +1,3416 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+FS&A
+</name>
+</assembly>
+<members>
+<member name="T:Ares.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources._11_percent">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources._1439663844_bezymyannyy">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources._20151012_561ba9f17c337_210x210">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources._20160405_570332648224e">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources._20160405_570332821e8e8_210x210">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources._20160405_570332821e8e8_210x2101">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources._20161014_58006c2e2c995">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources._33_512">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources._33_5121">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources._574347ddf6be999e0027de121104f2ff">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.attach_2_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.B0">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.batcobro">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.best_support_wrench">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.BT_MANTENIMIENTOS">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.bt_transferir">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.bt15">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.bt16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.bt161">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.bt17">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.bt18">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.bt181">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.bt182">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.bt19">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.bt20">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.bt21">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.bt24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.bt27">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.bt7">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.BTAGOTADOS">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.btExito">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.btExito1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.btImpresora">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.BTLISTA">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.BTLL">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.btmas">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.btmas2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.btmenos">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.btnomina">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.btNominasGuardadas">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.btNominasGuardadas1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.btNuevo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.btPrint">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.btrep">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.btReportes">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.btsave">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.btsave1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.btWarning">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.business">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.Campaign_Management">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.CANCELAR_BT">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.Circle_icons_money_svg">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.Coding_Html_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.Database_Cloud_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.delete">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.delivery_shipping_truck_business_van_transport_car_service_moving_courier_logistics_freight_logistic_package_shipment_cargo_transportati">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.edit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.floppy_128">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.footer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.handshake_flat">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.icon_1970474_960_720">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.icon_wallet">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.icon_working_with_health_care_providers">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.icone_maintenance">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.iconos_producto2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.list_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.list_icon1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.load">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.Lock2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.Lock3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.logo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.LOGO_FEL">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.LOGO_ONNE">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.marker">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.Money_Graph_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.phan_mem">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.reportes_business_intelligence_para_escuelas">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.save">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.My.Resources.Resources.sync">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="M:Ares.classCorteCaja.getCajas(System.Int32)">
+ <summary>
+ tipo: 1 abiertas, 0 cerradas, 3 todas
+ </summary>
+ <param name="tipo"></param>
+ <returns></returns>
+</member>
+<member name="M:Ares.classEmbarques.getTotalesPicking(System.String,System.String)">
+ <summary>
+ Retorna el total o el conteo de un picking (PARAM: CONTEO=TOTAL DOCS, SUMA=TOTAL VENTA 
+ </summary>
+ <param name="codembarque"></param>
+ <param name="Resultado"></param>
+ <returns></returns>
+</member>
+<member name="T:Ares.DSDASHBOARD">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Ares.DSDASHBOARD.tblVentasDiaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DSDASHBOARD.tblTopProductosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DSDASHBOARD.tblVentasVendedorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DSDASHBOARD.tblVentasDiaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DSDASHBOARD.tblTopProductosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DSDASHBOARD.tblVentasVendedorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DSDASHBOARD.tblVentasDiaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DSDASHBOARD.tblTopProductosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DSDASHBOARD.tblVentasVendedorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DSDOCUMENTOS">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Ares.DSDOCUMENTOS.tblDocumentosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DSDOCUMENTOS.tblEFECDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DSDOCUMENTOS.tblDocumentosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DSDOCUMENTOS.tblEFECRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DSDOCUMENTOS.tblDocumentosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DSDOCUMENTOS.tblEFECRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Ares.DataSet1.tblEmbarquesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DataSet1.tblEmbarqueDocumentosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DataSet1.tblEmbarquesBoletasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DataSet1.tblFacturasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DataSet1.tblEmbarquesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DataSet1.tblEmbarqueDocumentosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DataSet1.tblEmbarquesBoletasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DataSet1.tblFacturasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DataSet1.tblEmbarquesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DataSet1.tblEmbarqueDocumentosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DataSet1.tblEmbarquesBoletasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DataSet1.tblFacturasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DSCxc">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Ares.DSCxc.tblDocCuotasTempDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DSCxc.tblDocCuotasPendientesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DSCxc.tblProveedoresSaldosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DSCxc.tblDocCuotasTempRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DSCxc.tblDocCuotasPendientesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DSCxc.tblProveedoresSaldosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DSCxc.tblDocCuotasTempRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DSCxc.tblDocCuotasPendientesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DSCxc.tblProveedoresSaldosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DsEmpleados">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Ares.DsEmpleados.tblListaEmpleadosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DsEmpleados.tblListaEmpleadosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DsEmpleados.tblListaEmpleadosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DSPRODUCTOS">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Ares.DSPRODUCTOS.tblPreDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DSPRODUCTOS.tblSeriesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DSPRODUCTOS.tblVencimientosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DSPRODUCTOS.tblPreciosCompetenciaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DSPRODUCTOS.tblPreciosProductoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DSPRODUCTOS.tblPreciosCompraDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DSPRODUCTOS.tblPreciosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DSPRODUCTOS.tblRecetaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DSPRODUCTOS.tblProdsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DSPRODUCTOS.tblProductosFabricadosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DSPRODUCTOS.tblProductosAdicionalDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DSPRODUCTOS.tblSeriesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DSPRODUCTOS.tblVencimientosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DSPRODUCTOS.tblPreciosCompetenciaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DSPRODUCTOS.tblPreciosProductoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DSPRODUCTOS.tblPreciosCompraRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DSPRODUCTOS.tblPreciosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DSPRODUCTOS.tblRecetaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DSPRODUCTOS.tblProdsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DSPRODUCTOS.tblProductosFabricadosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DSPRODUCTOS.tblPreRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DSPRODUCTOS.tblProductosAdicionalRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DSPRODUCTOS.tblSeriesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DSPRODUCTOS.tblVencimientosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DSPRODUCTOS.tblPreciosCompetenciaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DSPRODUCTOS.tblPreciosProductoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DSPRODUCTOS.tblPreciosCompraRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DSPRODUCTOS.tblPreciosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DSPRODUCTOS.tblRecetaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DSPRODUCTOS.tblProdsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DSPRODUCTOS.tblProductosFabricadosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DSPRODUCTOS.tblPreRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DSPRODUCTOS.tblProductosAdicionalRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DSReports">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Ares.DSReports.tblPivotGeneralDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DSReports.tblRptVentasRepartidorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DSReports.tblHistorialVehiculoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DSReports.tblRptGastosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DSReports.tblRptPickingDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DSReports.tblDevolucionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DSReports.tblPivotGeneralRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DSReports.tblRptVentasRepartidorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DSReports.tblHistorialVehiculoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DSReports.tblRptGastosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DSReports.tblRptPickingRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DSReports.tblDevolucionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DSReports.tblPivotGeneralRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DSReports.tblRptVentasRepartidorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DSReports.tblHistorialVehiculoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DSReports.tblRptGastosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DSReports.tblRptPickingRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DSReports.tblDevolucionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DSSync">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Ares.DSSync.tblInventariosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DSSync.tblDatosAdicionalesProductosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DSSync.tblInventariosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DSSync.tblDatosAdicionalesProductosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DSSync.tblInventariosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DSSync.tblDatosAdicionalesProductosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DS_CorteCaja">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Ares.DS_CorteCaja.tblMovIEFDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DS_CorteCaja.tblDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DS_CorteCaja.tblDetalleVentasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DS_CorteCaja.tblClaseDosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DS_CorteCaja.tblProductosCorteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DS_CorteCaja.tblCajasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DS_CorteCaja.tblCorteIEFDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DS_CorteCaja.tblCorteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DS_CorteCaja.tblProductosCorteEXISTENCIADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DS_CorteCaja.tblRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DS_CorteCaja.tblDetalleVentasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DS_CorteCaja.tblClaseDosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DS_CorteCaja.tblProductosCorteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DS_CorteCaja.tblCajasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DS_CorteCaja.tblCorteIEFRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DS_CorteCaja.tblCorteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DS_CorteCaja.tblMovIEFRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DS_CorteCaja.tblProductosCorteEXISTENCIARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DS_CorteCaja.tblRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DS_CorteCaja.tblDetalleVentasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DS_CorteCaja.tblClaseDosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DS_CorteCaja.tblProductosCorteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DS_CorteCaja.tblCajasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DS_CorteCaja.tblCorteIEFRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DS_CorteCaja.tblCorteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DS_CorteCaja.tblMovIEFRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DS_CorteCaja.tblProductosCorteEXISTENCIARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DS_DEVOLUCIONES">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Ares.DS_DEVOLUCIONES.tblProductosFacDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DS_DEVOLUCIONES.tblProductosFacRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DS_DEVOLUCIONES.tblProductosFacRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="M:Ares.classFEL.rptFacturaFEL(System.String,System.Double,System.Int32)">
+ <summary>
+ TICKET / FACTURA / FACTURACION ELECTRONICA
+ </summary>
+ <param name="Coddoc"></param>
+ <param name="Correlativo"></param>
+ <param name="imp"></param>
+ <returns>true o false</returns>
+</member>
+<member name="M:Ares.classFEL.rptFacturaFELCONTINGENCIA(System.String,System.Double,System.Int32)">
+ <summary>
+ TICKET / FACTURA / FACTURACION ELECTRONICA
+ </summary>
+ <param name="Coddoc"></param>
+ <param name="Correlativo"></param>
+ <param name="imp"></param>
+ <returns>true o false</returns>
+</member>
+<member name="T:Ares.DSFEL">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Ares.DSFEL.tblTempVentasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DSFEL.tblTempVentasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DSFEL.tblTempVentasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="M:Ares.classGeneralHost.getGeneralCenso">
+ <summary>
+ DESCARGA LA TABLA DEL CENSO
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ares.classGeneralHost.verificarCodigo(System.String)">
+ <summary>
+ VERIFICA QUE EXISTA ESE CODIGO NUEVO PARA NO DUPLICARLO CON UNO EXISTENTE
+ </summary>
+ <param name="codigo"></param>
+ <returns></returns>
+</member>
+<member name="M:Ares.classGeneralHost.setCambiarCodigoProducto(System.String,System.String)">
+ <summary>
+ CAMBIA EL CODIGO DE UN PRODUCTO
+ </summary>
+ <param name="codactual"></param>
+ <param name="codnuevo"></param>
+ <returns></returns>
+</member>
+<member name="M:Ares.classGeneralHost.getGeneralProductos">
+ <summary>
+ OBTIENE EL CATÁOGO DE PRODUCTOS DESDE EL HOSTING
+ </summary>
+ <returns></returns>
+</member>
+<member name="T:Ares.DS_VENTAS2">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Ares.DS_VENTAS2.tblVentasListaProductosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DS_VENTAS2.tblPORCENTAJEVENTADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DS_VENTAS2.tblGridComprasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DS_VENTAS2.tblPreciosCDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DS_VENTAS2.tblTrasladosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DS_VENTAS2.tblVentasListaProductosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DS_VENTAS2.tblPORCENTAJEVENTARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DS_VENTAS2.tblGridComprasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DS_VENTAS2.tblPreciosCRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DS_VENTAS2.tblTrasladosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DS_VENTAS2.tblVentasListaProductosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DS_VENTAS2.tblPORCENTAJEVENTARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DS_VENTAS2.tblGridComprasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DS_VENTAS2.tblPreciosCRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DS_VENTAS2.tblTrasladosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="M:Ares.BusinessIntelligence.AbrirReporte_Ticket(System.DateTime,System.String,System.Double,System.Int32,System.Boolean)">
+ <summary>
+ Imprime el ticket de compra o formato de impresión de factura
+ </summary>
+ <param name="Fecha"></param>
+ <param name="Coddoc"></param>
+ <param name="Correlativo"></param>
+ <param name="Imp"></param>
+ <returns>true o false</returns>
+</member>
+<member name="M:Ares.BusinessIntelligence.rptEnviosTicket(System.DateTime,System.String,System.Double,System.Int32)">
+ <summary>
+ Imprime el ticket de compra o formato de impresión de factura
+ </summary>
+ <param name="Fecha"></param>
+ <param name="Coddoc"></param>
+ <param name="Correlativo"></param>
+ <param name="Imp"></param>
+ <returns>true o false</returns>
+</member>
+<member name="M:Ares.BusinessIntelligence.Report_CostosProducto(System.String,System.Int32,System.String)">
+ <summary>
+ Reporte de costos por producto
+ </summary>
+ <param name="empnit"></param>
+ <param name="anio"></param>
+ <param name="codprod"></param>
+ <returns></returns>
+</member>
+<member name="T:Ares.DataSetReportes">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Ares.DataSetReportes.tblCxCDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DataSetReportes.tblVentaClaseDosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DataSetReportes.tblProductoVentasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DataSetReportes.tblVentaVendedorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DataSetReportes.tblkardexDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DataSetReportes.tblVtaDocDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DataSetReportes.tblValeGastoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DataSetReportes.tblVtaClieDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DataSetReportes.tblVtaProductosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DataSetReportes.tblVtaMarcasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DataSetReportes.tblComprasFechasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DataSetReportes.tblDocsCorteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DataSetReportes.tblVentasVendedorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DataSetReportes.tblRptVentasClienteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DataSetReportes.tblRptCostosProveedorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DataSetReportes.tblDocsIEFDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DataSetReportes.tblVentaClaseDosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DataSetReportes.tblProductoVentasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DataSetReportes.tblVentaVendedorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DataSetReportes.tblkardexRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DataSetReportes.tblCxCRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DataSetReportes.tblVtaDocRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DataSetReportes.tblValeGastoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DataSetReportes.tblVtaClieRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DataSetReportes.tblVtaProductosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DataSetReportes.tblVtaMarcasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DataSetReportes.tblComprasFechasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DataSetReportes.tblDocsCorteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DataSetReportes.tblVentasVendedorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DataSetReportes.tblRptVentasClienteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DataSetReportes.tblRptCostosProveedorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DataSetReportes.tblDocsIEFRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DataSetReportes.tblVentaClaseDosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DataSetReportes.tblProductoVentasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DataSetReportes.tblVentaVendedorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DataSetReportes.tblkardexRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DataSetReportes.tblCxCRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DataSetReportes.tblVtaDocRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DataSetReportes.tblValeGastoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DataSetReportes.tblVtaClieRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DataSetReportes.tblVtaProductosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DataSetReportes.tblVtaMarcasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DataSetReportes.tblComprasFechasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DataSetReportes.tblDocsCorteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DataSetReportes.tblVentasVendedorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DataSetReportes.tblRptVentasClienteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DataSetReportes.tblRptCostosProveedorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DataSetReportes.tblDocsIEFRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="M:Ares.Form1.fcn_eliminar_item_documento(System.Int32)">
+ <summary>
+ Elimina un item de la tabla temporal de documentos
+ </summary>
+ <param name="idItem"></param>
+ <returns></returns>
+</member>
+<member name="F:Ares.Form1.components">
+ <summary>
+ Required designer variable.
+ </summary>
+</member>
+<member name="M:Ares.Form1.Dispose(System.Boolean)">
+ <summary>
+ Clean up any resources being used.
+ </summary>
+ <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+</member>
+<member name="M:Ares.Form1.InitializeComponent">
+ <summary>
+ Required method for Designer support - do not modify
+ the contents of this method with the code editor.
+ </summary>
+</member>
+<member name="M:Ares.Funciones.cleanString(System.String)">
+ <summary>
+ 
+ </summary>
+ <param name="str"></param>
+ <returns></returns>
+</member>
+<member name="F:Ares.Funciones.strSqlConectionString">
+ <summary>
+ String que contiene la cadena de conexión de la base de datos local SQl
+ </summary>
+</member>
+<member name="F:Ares.Funciones.strHostConectionString">
+ <summary>
+ String que contiene la cadena de conexión al host de sincronización
+ </summary>
+</member>
+<member name="M:Ares.classConection.EjecutarComandoSql(System.Data.SqlClient.SqlCommand)">
+ <summary>
+ Ejecuta un comando sqlcommand con el comando executenonquery
+ </summary>
+ <param name="comando"></param>
+ <returns></returns>
+</member>
+<member name="M:Ares.ClassDocumentos.cargarEntradaInventario(System.String,System.String,System.Double,System.Int32,System.Int32)">
+ <summary>
+ AUMENTA EL INVENTARIO DE UN PRODUCTO EN ENTRADA DE INVENTARIO
+ </summary>
+ <param name="empnit"></param>
+ <param name="coddoc"></param>
+ <param name="correlativo"></param>
+ <param name="anio"></param>
+ <param name="mes"></param>
+ <returns></returns>
+</member>
+<member name="M:Ares.ClassDocumentos.DevolverInvFac(System.String,System.String,System.Double,System.Int32,System.Int32)">
+ <summary>
+ SUMA EL INVENTARIO DE UN DOCUMENTO ESPECÍFICO
+ </summary>
+ <param name="empnit"></param>
+ <param name="coddoc"></param>
+ <param name="correlativo"></param>
+ <param name="anio"></param>
+ <param name="mes"></param>
+ <returns></returns>
+</member>
+<member name="M:Ares.ClassDocumentos.SacarInvFac(System.String,System.String,System.Double,System.Int32,System.Int32)">
+ <summary>
+ RESTA EL INVENTARIO DE UN DOCUMENTO ESPECÍFICO
+ </summary>
+ <param name="empnit"></param>
+ <param name="coddoc"></param>
+ <param name="correlativo"></param>
+ <param name="anio"></param>
+ <param name="mes"></param>
+ <returns></returns>
+</member>
+<member name="M:Ares.classInventario.fcn_existencias_cero">
+ <summary>
+ Deja las existencias a cero en el mes y año seleccionados
+ </summary>
+ <returns>boolean</returns>
+</member>
+<member name="M:Ares.classInventario.fcn_ActualizarInventarioMes(System.String)">
+ <summary>
+ Actualiza el inventario según entradas y salidas = opciones=mes (para actualizar solo mes) anio (para todo el año)
+ </summary>
+ <param name="mesanio"></param>
+ <returns></returns>
+</member>
+<member name="M:Ares.classInventario.fcn_InsertarSalidaProducto(System.String,System.Double,System.Int32)">
+ <summary>
+ Crea una salida de inventario en base al codigo de producto
+ </summary>
+ <param name="codprod"></param>
+ <param name="unidadesdescontar"></param>
+ <returns>boolean</returns>
+</member>
+<member name="M:Ares.classInventario.fcn_RegresarSalidaProducto(System.String,System.Double)">
+ <summary>
+ Retorna una salida de inventario, sirve cuando se elimina un movimiento que haya creado una salida de inventario
+ </summary>
+ <param name="codprod"></param>
+ <param name="unidadesintegrar"></param>
+ <returns>boolean</returns>
+</member>
+<member name="M:Ares.classInventario.fcn_InsertarEntradaProducto(System.String,System.Double)">
+ <summary>
+ Crea un ingreso de inventario
+ </summary>
+ <param name="codprod"></param>
+ <param name="unidadesentrada"></param>
+ <returns>boolean</returns>
+</member>
+<member name="M:Ares.classInventario.fcn_RegresarEntradaProducto(System.String,System.Double)">
+ <summary>
+ Reintegra un ingreso de inventario que se haya creado
+ </summary>
+ <param name="codprod"></param>
+ <param name="unidadesentrada"></param>
+ <returns>boolean</returns>
+</member>
+<member name="M:Ares.classSeries.Update_SerieStatus(System.String,System.String,System.String,System.Int32)">
+ <summary>
+ Actualiza el status de un número de serie a 0 cuando está habilitado o a 1 cuando ya se vendió
+ </summary>
+ <param name="empnit"></param>
+ <param name="codprod"></param>
+ <param name="noserie"></param>
+ <param name="Status"></param>
+ <returns></returns>
+</member>
+<member name="M:Ares.ClassTipoDocumentos.fcn_UpdateTipoDocumento(System.Int32,System.String,System.Double,System.String,System.String,System.String,System.String,System.String,System.String)">
+ <summary>
+ Actualiza un registro existente
+ </summary>
+ <param name="id"></param>
+ <param name="coddoc"></param>
+ <param name="correlativo"></param>
+ <param name="desdoc"></param>
+ <param name="resolucion"></param>
+ <param name="autorizacion"></param>
+ <param name="frase1"></param>
+ <param name="frase2"></param>
+ <returns>boolean</returns>
+</member>
+<member name="M:Ares.ClassTipoDocumentos.fcn_SaveTipoDocumento(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+ <summary>
+ Guarda un nuevo registro en la tabla TipoDocumentos
+ </summary>
+ <param name="tipodoc"></param>
+ <param name="coddoc"></param>
+ <param name="desdoc"></param>
+ <param name="resolucion"></param>
+ <param name="autorizacion"></param>
+ <param name="frase1"></param>
+ <param name="frase2"></param>
+ <returns>boolean</returns>
+</member>
+<member name="M:Ares.ClassTipoDocumentos.fcn_DeleteTipoDocumento(System.Int32,System.String)">
+ <summary>
+ Elimina un documento de la tabla Tipo Documentos
+ </summary>
+ <param name="ID"></param>
+ <returns></returns>
+</member>
+<member name="M:Ares.ClassTipoDocumentos.tblCoddoc(System.String)">
+ <summary>
+ Carga coddoc y desdoc de los documentos tipo factura
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ares.ClassTipoDocumentos.getFormatoDocumento(System.String)">
+ <summary>
+ Retorna el nombre del formato de impresión del documento
+ </summary>
+ <param name="coddoc"></param>
+ <returns></returns>
+</member>
+<member name="T:Ares.PrintRibbonControllerResources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_ClosePreview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_ClosePreviewLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_Customize">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_CustomizeLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_Document">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_DocumentMap">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_DocumentMapLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_EditPageHF">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_EditPageHFLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_ExportCsv">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_ExportCsvLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_ExportFile">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_ExportFileLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_ExportGraphic">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_ExportGraphicLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_ExportHtm">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_ExportHtmLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_ExportMht">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_ExportMhtLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_ExportPdf">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_ExportPdfLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_ExportRtf">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_ExportRtfLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_ExportTxt">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_ExportTxtLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_ExportXls">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_ExportXlsLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_ExportXlsx">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_ExportXlsxLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_FillBackground">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_FillBackgroundLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_Find">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_FindLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_HandTool">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_Magnifier">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_MultiplePages">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_MultiplePagesLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_Open">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_OpenLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_PageMargins">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_PageMarginsLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_PageMarginsModerate">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_PageMarginsNarrow">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_PageMarginsNormal">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_PageMarginsWide">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_PageOrientation">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_PageOrientationLandscape">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_PageOrientationLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_PageOrientationPortrait">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_PageSetupDialog">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_PaperKind_A3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_PaperKind_A4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_PaperKind_A5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_PaperKind_A6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_PaperKind_Executive">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_PaperKind_Legal">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_PaperKind_Letter">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_PaperKind_Tabloid">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_PaperSize">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_PaperSizeLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_Parameters">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_ParametersLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_Pointer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_Print">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_PrintDirect">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_PrintDirectLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_PrintLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_PrintSetup">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_PrintSetupLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_Save">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_SaveLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_Scale">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_ScaleLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_SendCsv">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_SendCsvLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_SendFile">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_SendFileLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_SendGraphic">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_SendGraphicLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_SendMht">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_SendMhtLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_SendPdf">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_SendPdfLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_SendRtf">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_SendRtfLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_SendTxt">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_SendTxtLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_SendXls">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_SendXlsLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_SendXlsx">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_SendXlsxLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_ShowFirstPage">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_ShowFirstPageLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_ShowLastPage">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_ShowLastPageLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_ShowNextPage">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_ShowNextPageLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_ShowPrevPage">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_ShowPrevPageLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_Thumbnails">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_ThumbnailsLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_Watermark">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_WatermarkLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_Zoom">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_ZoomIn">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_ZoomInLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_ZoomLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_ZoomOut">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.PrintRibbonControllerResources.RibbonPrintPreview_ZoomOutLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="M:Ares.classInvFisico.tblGridTemp(System.String,System.Double)">
+ <summary>
+ OBTIENE LOS DATOS DE TEMP VENTAS PARA EL GRID DE PRODUCTOS AGREGADOS
+ </summary>
+ <param name="coddoc"></param>
+ <param name="correlativo"></param>
+ <returns></returns>
+</member>
+<member name="M:Ares.classInvFisico.DeleteGridTemp(System.String,System.Double)">
+ <summary>
+ BORRA EL GRID DE UN DOCUMENTO ESPECIFICO
+ </summary>
+ <param name="coddoc"></param>
+ <param name="correlativo"></param>
+ <returns></returns>
+</member>
+<member name="M:Ares.classInvFisico.DeleteProdGridTemp(System.String,System.Double,System.String)">
+ <summary>
+ BORRA UN PRODUCTO DE TEMP VENTAS
+ </summary>
+ <param name="coddoc"></param>
+ <param name="correlativo"></param>
+ <param name="codprod"></param>
+ <returns></returns>
+</member>
+<member name="M:Ares.classInvFisico.existeProducto(System.String)">
+ <summary>
+ VERIFICA SI EXISTE EL CODIGO DE PRODUCTO
+ </summary>
+ <param name="codprod"></param>
+ <returns></returns>
+</member>
+<member name="M:Ares.classInvFisico.existeProductoGrid(System.String,System.Double,System.String)">
+ <summary>
+ VERIFICA SI EXISTE EL PRODUCTO EN EL GRID
+ </summary>
+ <param name="coddoc"></param>
+ <param name="correlativo"></param>
+ <param name="codprod"></param>
+ <returns></returns>
+</member>
+<member name="M:Ares.classInvFisico.tblProductos(System.String)">
+ <summary>
+ OBTIENE LA TABLA DE PRODUCTOS CON INVENTARIO SEGUN BUSQUEDA
+ </summary>
+ <param name="descripcion"></param>
+ <returns>DATATABLE</returns>
+</member>
+<member name="M:Ares.classInvFisico.insertConteo(System.String,System.Double,System.String,System.String,System.String,System.Double,System.Double,System.String,System.String)">
+ <summary>
+ INSERTA EL REGISTRO EN LA TABLA TEMP VENTAS PARA LUEGO HACER LOS AJUSTES
+ </summary>
+ <param name="codprod"></param>
+ <param name="conteo"></param>
+ <returns></returns>
+</member>
+<member name="M:Ares.ClassGeneral.getTblQry(System.String)">
+ <summary>
+ OBTIENE EL DATATABLE DE LA QRY QUE SE LE ESPECIFIQUE, LA QRY DEBE LLEVAR LOS PARAMETROS EN EL STRING
+ </summary>
+ <param name="qry"></param>
+ <returns></returns>
+</member>
+<member name="M:Ares.ClassProductos.ComprobarNoSerie(System.String,System.String)">
+ <summary>
+ verifica si el número de serie ya existe en la tabla
+ </summary>
+ <param name="empnit"></param>
+ <param name="noserie"></param>
+ <returns>True si existe, False si no existe</returns>
+</member>
+<member name="M:Ares.ClassProductos.update_serieStatus(System.String,System.String,System.Boolean)">
+ <summary>
+ Actualiza a 0 si no tiene serie o 1 si tiene serie
+ </summary>
+ <param name="empnit"></param>
+ <param name="codprod"></param>
+ <param name="habilitado"></param>
+ <returns>retorna true false</returns>
+</member>
+<member name="M:Ares.ClassProductos.insert_Serie(System.String,System.String,System.String,System.String)">
+ <summary>
+ Inserta un nuevo registro en la tabla de Series
+ </summary>
+ <param name="empnit"></param>
+ <param name="codprod"></param>
+ <param name="noserie"></param>
+ <param name="color"></param>
+ <returns>Boolean</returns>
+</member>
+<member name="M:Ares.ClassProductos.tbl_Series(System.String,System.String)">
+ <summary>
+ Carga la lista de series del producto
+ </summary>
+ <param name="empnit"></param>
+ <param name="codprod"></param>
+ <returns>un datatable</returns>
+</member>
+<member name="M:Ares.ClassProductos.delete_Serie(System.Int32)">
+ <summary>
+ Elimina el número de serie seleccionado
+ </summary>
+ <param name="id"></param>
+ <returns></returns>
+</member>
+<member name="M:Ares.ClassProductos.deleteall_Series(System.String,System.String)">
+ <summary>
+ Elimina todas las series del producto
+ </summary>
+ <param name="empnit"></param>
+ <param name="codprod"></param>
+ <returns></returns>
+</member>
+<member name="T:Ares.DSGeneral">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Ares.DSGeneral.tblProductosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DSGeneral.tblPreciosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DSGeneral.tblFacPendSaldoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DSGeneral.tblReciboAbonoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DSGeneral.tblAbonosFacturaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DSGeneral.tblTipoDocumentosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DSGeneral.tblClientesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DSGeneral.tblSyncPedidosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DSGeneral.tblRepartidoresDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DSGeneral.tblVehiculosClientesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DSGeneral.tblOrdenesTrabajoPendientesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DSGeneral.tblShorcutsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DSGeneral.tblTasksDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DSGeneral.tblRptClienteProductosResDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DSGeneral.tblRutasClientesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DSGeneral.tblClientesListaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DSGeneral.tblOrdenesCompraDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DSGeneral.tblProductosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DSGeneral.tblPreciosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DSGeneral.tblFacPendSaldoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DSGeneral.tblReciboAbonoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DSGeneral.tblAbonosFacturaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DSGeneral.tblTipoDocumentosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DSGeneral.tblClientesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DSGeneral.tblSyncPedidosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DSGeneral.tblRepartidoresRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DSGeneral.tblVehiculosClientesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DSGeneral.tblOrdenesTrabajoPendientesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DSGeneral.tblShorcutsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DSGeneral.tblTasksRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DSGeneral.tblRptClienteProductosResRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DSGeneral.tblRutasClientesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DSGeneral.tblClientesListaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DSGeneral.tblOrdenesCompraRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DSGeneral.tblProductosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DSGeneral.tblPreciosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DSGeneral.tblFacPendSaldoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DSGeneral.tblReciboAbonoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DSGeneral.tblAbonosFacturaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DSGeneral.tblTipoDocumentosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DSGeneral.tblClientesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DSGeneral.tblSyncPedidosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DSGeneral.tblRepartidoresRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DSGeneral.tblVehiculosClientesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DSGeneral.tblOrdenesTrabajoPendientesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DSGeneral.tblShorcutsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DSGeneral.tblTasksRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DSGeneral.tblRptClienteProductosResRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DSGeneral.tblRutasClientesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DSGeneral.tblClientesListaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DSGeneral.tblOrdenesCompraRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.VENTASDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Ares.VENTASDataSet.tblDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.VENTASDataSet.tblCompraDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.VENTASDataSet.tblInventariosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.VENTASDataSet.tblTicketDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.VENTASDataSet.tblTempVentaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.VENTASDataSet.tblTempEtiquetasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.VENTASDataSet.tblListaProductosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.VENTASDataSet.tblFelDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.VENTASDataSet.tblTicketNCDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.VENTASDataSet.tblRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.VENTASDataSet.tblCompraRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.VENTASDataSet.tblInventariosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.VENTASDataSet.tblTicketRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.VENTASDataSet.tblTempVentaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.VENTASDataSet.tblTempEtiquetasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.VENTASDataSet.tblListaProductosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.VENTASDataSet.tblFelRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.VENTASDataSet.tblTicketNCRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.VENTASDataSet.tblRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.VENTASDataSet.tblCompraRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.VENTASDataSet.tblInventariosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.VENTASDataSet.tblTicketRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.VENTASDataSet.tblTempVentaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.VENTASDataSet.tblTempEtiquetasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.VENTASDataSet.tblListaProductosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.VENTASDataSet.tblFelRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.VENTASDataSet.tblTicketNCRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.ChatTest.Server.SocketServer">
+ <summary>
+ Clase para la gestión de Sockets en el servidor
+ </summary>
+</member>
+<member name="F:Ares.ChatTest.Server.SocketServer.callBackDatosRecibidos">
+ <summary>
+ Método a ejecutar cuando se reciben datos por un socket
+ </summary>
+</member>
+<member name="F:Ares.ChatTest.Server.SocketServer.puerto">
+ <summary>
+ Puerto del servidor
+ </summary>
+</member>
+<member name="F:Ares.ChatTest.Server.SocketServer.tListener">
+ <summary>
+ Hilo de ejecución para TCPListener
+ </summary>
+</member>
+<member name="F:Ares.ChatTest.Server.SocketServer.escuchando">
+ <summary>
+ Indica si el servidor está escuchando
+ </summary>
+</member>
+<member name="F:Ares.ChatTest.Server.SocketServer.sockets">
+ <summary>
+ Diccionario que contiene la IP y el Socket de todos los clientes conectados
+ </summary>
+</member>
+<member name="F:Ares.ChatTest.Server.SocketServer.bloqueoSockets">
+ <summary>
+ Objeto que se utiliza para bloquear el uso del diccionario, con el fin de
+ evitar errores de concurrencia
+ </summary>
+</member>
+<member name="M:Ares.ChatTest.Server.SocketServer.Abrir(System.Int32,System.Action{System.String,System.String})">
+ <summary>
+ Inicia el servidor para que escuche en el puerto indicado
+ </summary>
+ <param name="puerto">Puerto a escuchar</param>
+ <param name="callBackDatosRecibidos">Método que se ejecutará al recibir datos
+ por alguno de los sockets</param>
+ <returns></returns>
+</member>
+<member name="M:Ares.ChatTest.Server.SocketServer.Escuchar">
+ <summary>
+ Escucha el puerto para detectar nuevas conexiones
+ </summary>
+</member>
+<member name="M:Ares.ChatTest.Server.SocketServer.DoAcceptSocketCallback(System.IAsyncResult)">
+ <summary>
+ Acepta la conexión y extraemos el socket
+ </summary>
+ <param name="ar">Objeto AsyncResult</param>
+</member>
+<member name="M:Ares.ChatTest.Server.SocketServer.EscucharSockets">
+ <summary>
+ Este método recorre todos los sockets abiertos procesando los datos recibidos
+ </summary>
+</member>
+<member name="M:Ares.ChatTest.Server.SocketServer.Cerrar">
+ <summary>
+ Cierra el servidor
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Ares.ChatTest.Server.SocketServer.EnviarATodos(System.String)">
+ <summary>
+ Envía los datos indicados a todos los sockets abiertos
+ </summary>
+ <param name="datos">Datos a enviar</param>
+ <returns>Devuelve true si correcto o false si error</returns>
+</member>
+<member name="T:Ares.DataSetInventarios">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Ares.DataSetInventarios.tblMovInvDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DataSetInventarios.tblMinimosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DataSetInventarios.tblVencidosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DataSetInventarios.tblTrasladosPendientesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DataSetInventarios.tblDetalleTrasladoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DataSetInventarios.tblProductosInvFisicoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DataSetInventarios.tblTempInvFisicoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Ares.DataSetInventarios.tblMovInvRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DataSetInventarios.tblMinimosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DataSetInventarios.tblVencidosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DataSetInventarios.tblTrasladosPendientesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DataSetInventarios.tblDetalleTrasladoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DataSetInventarios.tblProductosInvFisicoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DataSetInventarios.tblTempInvFisicoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Ares.DataSetInventarios.tblMovInvRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DataSetInventarios.tblMinimosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DataSetInventarios.tblVencidosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DataSetInventarios.tblTrasladosPendientesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DataSetInventarios.tblDetalleTrasladoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DataSetInventarios.tblProductosInvFisicoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Ares.DataSetInventarios.tblTempInvFisicoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="M:Ares.viewEditSalesItem.fcn_eliminar_item_documento(System.Int32)">
+ <summary>
+ Elimina un item de la tabla temporal de documentos
+ </summary>
+ <param name="idItem"></param>
+ <returns></returns>
+</member>
+<member name="M:Ares.ViewProductos.cargarGridProductos">
+ <summary>
+ carga la lista de productos con un método asyncrono
+ </summary>
+</member>
+<member name="M:Ares.viewVentasEditar.fcn_eliminar_item_documento(System.Int32)">
+ <summary>
+ Elimina un item de la tabla temporal de documentos
+ </summary>
+ <param name="idItem"></param>
+ <returns></returns>
+</member>
+<member name="T:Ares.XRDesignRibbonControllerResources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_AlignBottom">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_AlignHorizontalCenters">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_AlignLeft">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_AlignRight">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_AlignToGrid">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_AlignTop">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_AlignVerticalCenters">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_BackColor">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_BringToFront">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_CenterHorizontally">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_CenterVertically">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_Copy">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_CopyLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_Cut">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_CutLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_Edit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_Exit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_ExitLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_Font">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_FontBold">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_FontItalic">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_FontUnderline">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_ForeColor">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_HorizSpaceConcatenate">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_HorizSpaceDecrease">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_HorizSpaceIncrease">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_HorizSpaceMakeEqual">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_HtmlBackward">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_HtmlBackwardLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_HtmlFind">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_HtmlFindLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_HtmlForward">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_HtmlForwardLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_HtmlHome">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_HtmlHomeLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_HtmlRefresh">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_HtmlRefreshLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_HtmlStop">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_HtmlStopLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_JustifyCenter">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_JustifyJustify">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_JustifyLeft">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_JustifyRight">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_NewReport">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_NewReportLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_NewReportWizard">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_NewReportWizardLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_OpenFile">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_OpenFileLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_Paste">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_PasteLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_Redo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_RedoLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_Report">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_SaveAll">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_SaveAllLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_SaveFile">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_SaveFileAs">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_SaveFileAsLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_SaveFileLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_Scripts">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_ScriptsLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_SendToBack">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_SizeToControl">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_SizeToControlHeight">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_SizeToControlWidth">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_SizeToGrid">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_Undo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_UndoLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_VertSpaceConcatenate">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_VertSpaceDecrease">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_VertSpaceIncrease">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_VertSpaceMakeEqual">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_Windows">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_WindowsLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_Zoom">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_ZoomIn">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_ZoomInLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_ZoomLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_ZoomOut">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Ares.XRDesignRibbonControllerResources.RibbonUserDesigner_ZoomOutLarge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

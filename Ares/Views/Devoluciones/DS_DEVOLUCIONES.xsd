@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DS_DEVOLUCIONES" targetNamespace="http://tempuri.org/DS_DEVOLUCIONES.xsd" xmlns:mstns="http://tempuri.org/DS_DEVOLUCIONES.xsd" xmlns="http://tempuri.org/DS_DEVOLUCIONES.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DS_DEVOLUCIONES" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DS_DEVOLUCIONES" msprop:Generator_UserDSName="DS_DEVOLUCIONES">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="tblProductosFac" msprop:Generator_TableClassName="tblProductosFacDataTable" msprop:Generator_TableVarName="tabletblProductosFac" msprop:Generator_TablePropName="tblProductosFac" msprop:Generator_RowDeletingName="tblProductosFacRowDeleting" msprop:Generator_RowChangingName="tblProductosFacRowChanging" msprop:Generator_RowEvHandlerName="tblProductosFacRowChangeEventHandler" msprop:Generator_RowDeletedName="tblProductosFacRowDeleted" msprop:Generator_UserTableName="tblProductosFac" msprop:Generator_RowChangedName="tblProductosFacRowChanged" msprop:Generator_RowEvArgName="tblProductosFacRowChangeEvent" msprop:Generator_RowClassName="tblProductosFacRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CODPROD" msprop:Generator_ColumnVarNameInTable="columnCODPROD" msprop:Generator_ColumnPropNameInRow="CODPROD" msprop:Generator_ColumnPropNameInTable="CODPRODColumn" msprop:Generator_UserColumnName="CODPROD" type="xs:string" minOccurs="0" />
+              <xs:element name="DESPROD" msprop:Generator_ColumnVarNameInTable="columnDESPROD" msprop:Generator_ColumnPropNameInRow="DESPROD" msprop:Generator_ColumnPropNameInTable="DESPRODColumn" msprop:Generator_UserColumnName="DESPROD" type="xs:string" minOccurs="0" />
+              <xs:element name="CODMEDIDA" msprop:Generator_ColumnVarNameInTable="columnCODMEDIDA" msprop:Generator_ColumnPropNameInRow="CODMEDIDA" msprop:Generator_ColumnPropNameInTable="CODMEDIDAColumn" msprop:Generator_UserColumnName="CODMEDIDA" type="xs:string" minOccurs="0" />
+              <xs:element name="CANTIDAD" msprop:Generator_ColumnVarNameInTable="columnCANTIDAD" msprop:Generator_ColumnPropNameInRow="CANTIDAD" msprop:Generator_ColumnPropNameInTable="CANTIDADColumn" msprop:Generator_UserColumnName="CANTIDAD" type="xs:double" minOccurs="0" />
+              <xs:element name="TOTALUNIDADES" msprop:Generator_ColumnVarNameInTable="columnTOTALUNIDADES" msprop:Generator_ColumnPropNameInRow="TOTALUNIDADES" msprop:Generator_ColumnPropNameInTable="TOTALUNIDADESColumn" msprop:Generator_UserColumnName="TOTALUNIDADES" type="xs:double" minOccurs="0" />
+              <xs:element name="TOTALPRECIO" msprop:Generator_ColumnVarNameInTable="columnTOTALPRECIO" msprop:Generator_ColumnPropNameInRow="TOTALPRECIO" msprop:Generator_ColumnPropNameInTable="TOTALPRECIOColumn" msprop:Generator_UserColumnName="TOTALPRECIO" type="xs:double" minOccurs="0" />
+              <xs:element name="ID" msprop:Generator_ColumnVarNameInTable="columnID" msprop:Generator_ColumnPropNameInRow="ID" msprop:Generator_ColumnPropNameInTable="IDColumn" msprop:Generator_UserColumnName="ID" type="xs:int" minOccurs="0" />
+              <xs:element name="COSTO" msprop:Generator_ColumnVarNameInTable="columnCOSTO" msprop:Generator_ColumnPropNameInRow="COSTO" msprop:Generator_ColumnPropNameInTable="COSTOColumn" msprop:Generator_UserColumnName="COSTO" type="xs:double" minOccurs="0" />
+              <xs:element name="PRECIO" msprop:Generator_ColumnVarNameInTable="columnPRECIO" msprop:Generator_ColumnPropNameInRow="PRECIO" msprop:Generator_ColumnPropNameInTable="PRECIOColumn" msprop:Generator_UserColumnName="PRECIO" type="xs:double" minOccurs="0" />
+              <xs:element name="EQUIVALE" msprop:Generator_ColumnVarNameInTable="columnEQUIVALE" msprop:Generator_ColumnPropNameInRow="EQUIVALE" msprop:Generator_ColumnPropNameInTable="EQUIVALEColumn" msprop:Generator_UserColumnName="EQUIVALE" type="xs:int" minOccurs="0" />
+              <xs:element name="TOTALBONIF" msprop:Generator_ColumnVarNameInTable="columnTOTALBONIF" msprop:Generator_ColumnPropNameInRow="TOTALBONIF" msprop:Generator_ColumnPropNameInTable="TOTALBONIFColumn" msprop:Generator_UserColumnName="TOTALBONIF" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

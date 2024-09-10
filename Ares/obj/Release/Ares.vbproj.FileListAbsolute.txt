@@ -1,0 +1,3 @@
+C:\Users\MARLON LOPEZ\Desktop\SOPORTE\CODIGO\FARMASALUD-ERP\Ares\bin\Release\farmasalud.exe.config
+C:\Users\MARLON LOPEZ\Desktop\SOPORTE\CODIGO\FARMASALUD-ERP\Ares\obj\Release\Interop.MSXML2.dll
+C:\Users\MARLON LOPEZ\Desktop\SOPORTE\CODIGO\FARMASALUD-ERP\Ares\obj\Release\Ares.vbproj.ResolveComReference.cache

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+express-sync
+</name>
+</assembly>
+<members>
+<member name="T:express_sync.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:express_sync.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:express_sync.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:express_sync.classSqlSvrSync.EnviarPrecios2(System.Int32,System.Int32)">
+ <summary>
+ Inserta precios y existencia al host
+ </summary>
+ <param name="anio">año de proceso del inventario</param>
+ <param name="mes">mes de proceso del inventario</param>
+ <returns></returns>
+</member>
+<member name="M:express_sync.classSqlSvrSync.EnviarClientes(System.String)">
+ <summary>
+ Envia el catálogo de clientes al host
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:express_sync.classSqlSvrSync.EnviarVendedores(System.String)">
+ <summary>
+ Envia el catálogo de vendedores al host
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:express_sync.classSqlSvrSync.EliminarVendedores(System.String)">
+ <summary>
+ Elimina la lista de vendedores para dejar paso a los nuevos datos
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:express_sync.classSqlSvrSync.EliminarClientes(System.String)">
+ <summary>
+ Elimina la lista de clientes para dejar paso a los nuevos datos
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:express_sync.classSqlSvrSync.EliminarPrecios(System.String)">
+ <summary>
+ Elimina la lista de precios para dejar paso a los nuevos datos
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:express_sync.classSqlSvrSync.EliminarEmpresas">
+ <summary>
+ Elimina la lista de Empresas para dejar paso a los nuevos datos
+ </summary>
+ <returns></returns>
+</member>
+</members>
+</doc>

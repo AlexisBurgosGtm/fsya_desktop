@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DSCxc" targetNamespace="http://tempuri.org/DSCxc.xsd" xmlns:mstns="http://tempuri.org/DSCxc.xsd" xmlns="http://tempuri.org/DSCxc.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DSCxc" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DSCxc" msprop:Generator_UserDSName="DSCxc">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="tblDocCuotasTemp" msprop:Generator_TableClassName="tblDocCuotasTempDataTable" msprop:Generator_TableVarName="tabletblDocCuotasTemp" msprop:Generator_RowChangedName="tblDocCuotasTempRowChanged" msprop:Generator_TablePropName="tblDocCuotasTemp" msprop:Generator_RowDeletingName="tblDocCuotasTempRowDeleting" msprop:Generator_RowChangingName="tblDocCuotasTempRowChanging" msprop:Generator_RowEvHandlerName="tblDocCuotasTempRowChangeEventHandler" msprop:Generator_RowDeletedName="tblDocCuotasTempRowDeleted" msprop:Generator_RowClassName="tblDocCuotasTempRow" msprop:Generator_UserTableName="tblDocCuotasTemp" msprop:Generator_RowEvArgName="tblDocCuotasTempRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="NOCUOTA" msprop:Generator_ColumnVarNameInTable="columnNOCUOTA" msprop:Generator_ColumnPropNameInRow="NOCUOTA" msprop:Generator_ColumnPropNameInTable="NOCUOTAColumn" msprop:Generator_UserColumnName="NOCUOTA" type="xs:short" minOccurs="0" />
+              <xs:element name="FECHAPAGO" msprop:Generator_ColumnVarNameInTable="columnFECHAPAGO" msprop:Generator_ColumnPropNameInRow="FECHAPAGO" msprop:Generator_ColumnPropNameInTable="FECHAPAGOColumn" msprop:Generator_UserColumnName="FECHAPAGO" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="IMPORTE" msprop:Generator_ColumnVarNameInTable="columnIMPORTE" msprop:Generator_ColumnPropNameInRow="IMPORTE" msprop:Generator_ColumnPropNameInTable="IMPORTEColumn" msprop:Generator_UserColumnName="IMPORTE" type="xs:double" minOccurs="0" />
+              <xs:element name="QIMPORTE" msprop:Generator_ColumnVarNameInTable="columnQIMPORTE" msprop:Generator_ColumnPropNameInRow="QIMPORTE" msprop:Generator_ColumnPropNameInTable="QIMPORTEColumn" msprop:Generator_UserColumnName="QIMPORTE" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="tblDocCuotasPendientes" msprop:Generator_TableClassName="tblDocCuotasPendientesDataTable" msprop:Generator_TableVarName="tabletblDocCuotasPendientes" msprop:Generator_TablePropName="tblDocCuotasPendientes" msprop:Generator_RowDeletingName="tblDocCuotasPendientesRowDeleting" msprop:Generator_RowChangingName="tblDocCuotasPendientesRowChanging" msprop:Generator_RowEvHandlerName="tblDocCuotasPendientesRowChangeEventHandler" msprop:Generator_RowDeletedName="tblDocCuotasPendientesRowDeleted" msprop:Generator_UserTableName="tblDocCuotasPendientes" msprop:Generator_RowChangedName="tblDocCuotasPendientesRowChanged" msprop:Generator_RowEvArgName="tblDocCuotasPendientesRowChangeEvent" msprop:Generator_RowClassName="tblDocCuotasPendientesRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="NITCLIE" msprop:Generator_ColumnVarNameInTable="columnNITCLIE" msprop:Generator_ColumnPropNameInRow="NITCLIE" msprop:Generator_ColumnPropNameInTable="NITCLIEColumn" msprop:Generator_UserColumnName="NITCLIE" type="xs:string" minOccurs="0" />
+              <xs:element name="NOMBRECLIENTE" msprop:Generator_ColumnVarNameInTable="columnNOMBRECLIENTE" msprop:Generator_ColumnPropNameInRow="NOMBRECLIENTE" msprop:Generator_ColumnPropNameInTable="NOMBRECLIENTEColumn" msprop:Generator_UserColumnName="NOMBRECLIENTE" type="xs:string" minOccurs="0" />
+              <xs:element name="TELEFONOCLIENTE" msprop:Generator_ColumnVarNameInTable="columnTELEFONOCLIENTE" msprop:Generator_ColumnPropNameInRow="TELEFONOCLIENTE" msprop:Generator_ColumnPropNameInTable="TELEFONOCLIENTEColumn" msprop:Generator_UserColumnName="TELEFONOCLIENTE" type="xs:string" minOccurs="0" />
+              <xs:element name="NOCUOTA" msprop:Generator_ColumnVarNameInTable="columnNOCUOTA" msprop:Generator_ColumnPropNameInRow="NOCUOTA" msprop:Generator_ColumnPropNameInTable="NOCUOTAColumn" msprop:Generator_UserColumnName="NOCUOTA" type="xs:short" minOccurs="0" />
+              <xs:element name="FECHAPAGO" msprop:Generator_ColumnVarNameInTable="columnFECHAPAGO" msprop:Generator_ColumnPropNameInRow="FECHAPAGO" msprop:Generator_ColumnPropNameInTable="FECHAPAGOColumn" msprop:Generator_UserColumnName="FECHAPAGO" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="CUOTA" msprop:Generator_ColumnVarNameInTable="columnCUOTA" msprop:Generator_ColumnPropNameInRow="CUOTA" msprop:Generator_ColumnPropNameInTable="CUOTAColumn" msprop:Generator_UserColumnName="CUOTA" type="xs:double" minOccurs="0" />
+              <xs:element name="CODDOC" msprop:Generator_ColumnVarNameInTable="columnCODDOC" msprop:Generator_ColumnPropNameInRow="CODDOC" msprop:Generator_ColumnPropNameInTable="CODDOCColumn" msprop:Generator_UserColumnName="CODDOC" type="xs:string" minOccurs="0" />
+              <xs:element name="CORRELATIVO" msprop:Generator_ColumnVarNameInTable="columnCORRELATIVO" msprop:Generator_ColumnPropNameInRow="CORRELATIVO" msprop:Generator_ColumnPropNameInTable="CORRELATIVOColumn" msprop:Generator_UserColumnName="CORRELATIVO" type="xs:double" minOccurs="0" />
+              <xs:element name="CODCLIE" msprop:Generator_ColumnVarNameInTable="columnCODCLIE" msprop:Generator_ColumnPropNameInRow="CODCLIE" msprop:Generator_ColumnPropNameInTable="CODCLIEColumn" msprop:Generator_UserColumnName="CODCLIE" type="xs:int" minOccurs="0" />
+              <xs:element name="QCUOTA" msprop:Generator_ColumnVarNameInTable="columnQCUOTA" msprop:Generator_ColumnPropNameInRow="QCUOTA" msprop:Generator_ColumnPropNameInTable="QCUOTAColumn" msprop:Generator_UserColumnName="QCUOTA" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="tblProveedoresSaldos" msprop:Generator_TableClassName="tblProveedoresSaldosDataTable" msprop:Generator_TableVarName="tabletblProveedoresSaldos" msprop:Generator_TablePropName="tblProveedoresSaldos" msprop:Generator_RowDeletingName="tblProveedoresSaldosRowDeleting" msprop:Generator_RowChangingName="tblProveedoresSaldosRowChanging" msprop:Generator_RowEvHandlerName="tblProveedoresSaldosRowChangeEventHandler" msprop:Generator_RowDeletedName="tblProveedoresSaldosRowDeleted" msprop:Generator_UserTableName="tblProveedoresSaldos" msprop:Generator_RowChangedName="tblProveedoresSaldosRowChanged" msprop:Generator_RowEvArgName="tblProveedoresSaldosRowChangeEvent" msprop:Generator_RowClassName="tblProveedoresSaldosRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CODIGO" msprop:Generator_ColumnVarNameInTable="columnCODIGO" msprop:Generator_ColumnPropNameInRow="CODIGO" msprop:Generator_ColumnPropNameInTable="CODIGOColumn" msprop:Generator_UserColumnName="CODIGO" type="xs:string" minOccurs="0" />
+              <xs:element name="NIT" msprop:Generator_ColumnVarNameInTable="columnNIT" msprop:Generator_ColumnPropNameInRow="NIT" msprop:Generator_ColumnPropNameInTable="NITColumn" msprop:Generator_UserColumnName="NIT" type="xs:string" minOccurs="0" />
+              <xs:element name="EMPRESA" msprop:Generator_ColumnVarNameInTable="columnEMPRESA" msprop:Generator_ColumnPropNameInRow="EMPRESA" msprop:Generator_ColumnPropNameInTable="EMPRESAColumn" msprop:Generator_UserColumnName="EMPRESA" type="xs:string" minOccurs="0" />
+              <xs:element name="TELEMPRESA" msprop:Generator_ColumnVarNameInTable="columnTELEMPRESA" msprop:Generator_ColumnPropNameInRow="TELEMPRESA" msprop:Generator_ColumnPropNameInTable="TELEMPRESAColumn" msprop:Generator_UserColumnName="TELEMPRESA" type="xs:string" minOccurs="0" />
+              <xs:element name="CONTACTO" msprop:Generator_ColumnVarNameInTable="columnCONTACTO" msprop:Generator_ColumnPropNameInRow="CONTACTO" msprop:Generator_ColumnPropNameInTable="CONTACTOColumn" msprop:Generator_UserColumnName="CONTACTO" type="xs:string" minOccurs="0" />
+              <xs:element name="TELCONTACTO" msprop:Generator_ColumnVarNameInTable="columnTELCONTACTO" msprop:Generator_ColumnPropNameInRow="TELCONTACTO" msprop:Generator_ColumnPropNameInTable="TELCONTACTOColumn" msprop:Generator_UserColumnName="TELCONTACTO" type="xs:string" minOccurs="0" />
+              <xs:element name="SALDO" msprop:Generator_ColumnVarNameInTable="columnSALDO" msprop:Generator_ColumnPropNameInRow="SALDO" msprop:Generator_ColumnPropNameInTable="SALDOColumn" msprop:Generator_UserColumnName="SALDO" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

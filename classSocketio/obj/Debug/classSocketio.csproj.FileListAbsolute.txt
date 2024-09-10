@@ -1,0 +1,8 @@
+C:\ALEXIS\PROYECTOS\POS - DESKTOP\CODIGO DESKTOP-DEV16.1 - Market - ONNE\classSocketio\bin\Debug\classSocketio.dll
+C:\ALEXIS\PROYECTOS\POS - DESKTOP\CODIGO DESKTOP-DEV16.1 - Market - ONNE\classSocketio\bin\Debug\classSocketio.pdb
+C:\ALEXIS\PROYECTOS\POS - DESKTOP\CODIGO DESKTOP-DEV16.1 - Market - ONNE\classSocketio\bin\Debug\Newtonsoft.Json.dll
+C:\ALEXIS\PROYECTOS\POS - DESKTOP\CODIGO DESKTOP-DEV16.1 - Market - ONNE\classSocketio\bin\Debug\SocketIOClient.dll
+C:\ALEXIS\PROYECTOS\POS - DESKTOP\CODIGO DESKTOP-DEV16.1 - Market - ONNE\classSocketio\bin\Debug\WebSocket4Net.dll
+C:\ALEXIS\PROYECTOS\POS - DESKTOP\CODIGO DESKTOP-DEV16.1 - Market - ONNE\classSocketio\obj\Debug\classSocketio.csprojResolveAssemblyReference.cache
+C:\ALEXIS\PROYECTOS\POS - DESKTOP\CODIGO DESKTOP-DEV16.1 - Market - ONNE\classSocketio\obj\Debug\classSocketio.dll
+C:\ALEXIS\PROYECTOS\POS - DESKTOP\CODIGO DESKTOP-DEV16.1 - Market - ONNE\classSocketio\obj\Debug\classSocketio.pdb
